@@ -1,0 +1,1773 @@
+Movie Name,Genre,Rating,Voting Counts,Duration
+1. Alien: Romulus,Horror,7.1,262000,1h 59m
+2. Nosferatu,Horror,7.2,228000,2h 12m
+3. The Substance,Horror,7.2,333000,2h 21m
+4. Heretic,Horror,7.0,182000,1h 51m
+5. Longlegs,Horror,6.6,201000,1h 41m
+6. Witchboard,Horror,5.6,417,1h 52m
+7. Beetlejuice Beetlejuice,Horror,6.6,159000,1h 45m
+8. Speak No Evil,Horror,6.8,117000,1h 50m
+9. River of Blood,Horror,4.8,2400,1h 26m
+10. Smile 2,Horror,6.7,121000,2h 7m
+11. Trap,Horror,5.8,149000,1h 45m
+12. Presence,Horror,6.1,34000,1h 24m
+13. The A-Frame,Horror,5.8,101,1h 22m
+14. Went Up the Hill,Horror,6.3,202,1h 40m
+15. Oddity,Horror,6.7,49000,1h 38m
+16. Abigail,Horror,6.5,103000,1h 49m
+17. MaXXXine,Horror,6.2,77000,1h 43m
+18. Terrifier 3,Horror,6.3,54000,2h 5m
+19. Kinds of Kindness,Horror,6.5,63000,2h 44m
+20. A Quiet Place: Day One,Horror,6.3,159000,1h 39m
+21. Animale,Horror,5.8,392,1h 38m
+22. Jimmy and Stiggs,Horror,6.1,249,1h 19m
+23. The Watchers,Horror,5.7,60000,1h 42m
+24. The Damned,Horror,5.7,6400,1h 29m
+25. Strange Harvest,Horror,6.6,412,1h 34m
+26. Immaculate,Horror,5.8,56000,1h 29m
+27. Get Away,Horror,5.3,8900,1h 26m
+28. Apartment 7A,Horror,5.9,18000,1h 47m
+29. Salem's Lot,Horror,5.6,37000,1h 54m
+30. Shelby Oaks,Horror,5.4,357,1h 39m
+31. Don't Move,Horror,5.8,42000,1h 32m
+32. The Crow,Horror,4.7,38000,1h 51m
+33. Night Swim,Horror,4.7,29000,1h 38m
+34. Y2K,Horror,4.8,17000,1h 31m
+35. Cuckoo,Horror,5.7,30000,1h 42m
+36. The Rule of Jenny Pen,Horror,6.2,7600,1h 44m
+37. Monster Island,Horror,5.2,1300,1h 23m
+38. The Deliverance,Horror,5.1,24000,1h 52m
+39. Bone Lake,Horror,N/A,N/A,1h 34m
+40. Hellboy: The Crooked Man,Horror,4.5,15000,1h 39m
+41. Traumatika,Horror,5.9,75,1h 27m
+42. The First Omen,Horror,6.5,67000,1h 59m
+43. The Shrouds,Horror,5.8,5600,2h
+44. The Master and Margarita,Horror,7.1,5500,2h 36m
+45. Nightbitch,Horror,5.5,22000,1h 39m
+46. Tarot,Horror,4.8,34000,1h 32m
+47. Munjya,Horror,6.3,27000,2h 3m
+48. The Strangers: Chapter 1,Horror,4.6,24000,1h 31m
+49. Exhuma,Horror,6.9,25000,2h 14m
+50. MadS,Horror,6.4,9600,1h 29m
+51. Mononoke the Movie: The Phantom in the Rain,Horror,6.7,1600,1h 29m
+52. Azrael,Horror,5.3,13000,1h 26m
+53. Apocalypse Z: The Beginning of the End,Horror,6.1,22000,1h 57m
+54. In a Violent Nature,Horror,5.6,28000,1h 34m
+55. A Sacrifice,Horror,5.0,6000,1h 34m
+56. Time Cut,Horror,5.0,21000,1h 31m
+57. Cloud,Horror,6.4,2300,2h 4m
+58. Never Let Go,Horror,5.4,17000,1h 41m
+59. Arcadian,Horror,5.5,25000,1h 32m
+60. Queen of Bones,Horror,4.6,386,1h 30m
+61. Lisa Frankenstein,Horror,6.1,29000,1h 41m
+62. The Platform 2,Horror,4.9,43000,1h 39m
+63. Stree 2: Sarkate Ka Aatank,Horror,6.9,44000,2h 27m
+64. Survive,Horror,4.6,3700,1h 30m
+65. Rumours,Horror,4.9,5500,1h 44m
+66. The Beast Within,Horror,4.3,5600,1h 37m
+67. Noise,Horror,5.9,239,1h 33m
+68. Bramayugam,Horror,7.8,15000,2h 19m
+69. Cellar Door,Horror,5.2,5100,1h 37m
+70. Ick,Horror,5.8,380,1h 33m
+71. Dirty Boy,Horror,7.6,49,1h 38m
+72. Push,Horror,4.7,727,1h 29m
+73. Frewaka,Horror,6.1,2000,1h 43m
+74. Werewolves,Horror,4.4,8000,1h 33m
+75. The Devil's Bath,Horror,6.6,7100,2h 1m
+76. The Balconettes,Horror,5.8,1700,1h 44m
+77. Under Paris,Horror,5.2,38000,1h 44m
+78. Bagman,Horror,4.7,6900,1h 33m
+79. I Don't Understand You,Horror,5.3,1200,1h 37m
+80. Ghost Killer,Horror,6.3,493,1h 45m
+81. Succubus,Horror,4.6,1500,1h 43m
+82. Lembayung,Horror,6.0,811,2h 3m
+83. The Exorcism,Horror,4.2,12000,1h 35m
+84. The House on Laura Anne Dr.,Horror,5.1,1300,1h 15m
+85. Year 10,Horror,5.4,2100,1h 36m
+86. Compulsion,Horror,6.2,44,N/A
+87. Sting,Horror,5.7,18000,1h 31m
+88. Dead Mail,Horror,6.0,2500,1h 46m
+89. Afraid,Horror,5.2,15000,1h 24m
+90. Die Alone,Horror,5.8,4200,1h 30m
+91. Saint Clare,Horror,4.5,706,1h 32m
+92. Please Don't Feed the Children,Horror,4.8,764,1h 34m
+93. Humane,Horror,5.5,7900,1h 33m
+94. Lowlifes,Horror,6.2,7000,1h 30m
+95. The Ruse,Horror,7.2,563,1h 45m
+96. The Soul Eater,Horror,5.8,3200,1h 48m
+97. The Inheritance,Horror,4.7,3200,1h 25m
+98. Imaginary,Horror,4.7,18000,1h 44m
+99. Spin the Bottle,Horror,3.5,1100,2h 4m
+100. Winnie-the-Pooh: Blood and Honey 2,Horror,4.6,12000,1h 33m
+101. Things Will Be Different,Horror,5.2,3000,1h 42m
+102. V/H/S/Beyond,Horror,5.8,10000,1h 54m
+103. Black,Horror,7.1,3000,1h 55m
+104. Grave Torture,Horror,6.2,3200,1h 57m
+105. Daddy's Head,Horror,5.6,5800,1h 32m
+106. Your Monster,Horror,6.4,6800,1h 43m
+107. Hotspring Sharkattack,Horror,5.8,120,1h 10m
+108. Outbreak,Horror,4.4,1500,1h 28m
+109. House of Sayuri,Horror,6.3,447,1h 48m
+110. Chime,Horror,6.4,2900,45m
+111. We Bury the Dead,Horror,6.3,154,1h 34m
+112. The Radleys,Horror,5.0,3200,1h 55m
+113. Ghost Train,Horror,5.1,92,1h 34m
+114. The Wailing,Horror,6.1,1900,1h 47m
+115. Sumala,Horror,5.8,1300,1h 52m
+116. The Last Breath,Horror,4.7,2700,1h 36m
+117. Vina: Before 7 Days,Horror,5.3,672,1h 40m
+118. Consumed,Horror,3.7,724,1h 29m
+119. Dan Da Dan: First Encounter,Horror,8.2,3300,1h 23m
+120. The North Witch,Horror,4.3,146,1h 20m
+121. Dead Talents Society,Horror,7.0,2900,1h 51m
+122. The Vampire Next Door,Horror,4.7,844,1h 50m
+123. Hold Your Breath,Horror,5.3,9200,1h 34m
+124. Scurry,Horror,7.7,31,1h 30m
+125. Stream,Horror,5.9,9600,2h 3m
+126. Something in the Water,Horror,4.1,5400,1h 26m
+127. The Twin,Horror,7.3,116,1h 43m
+128. Blood Star,Horror,6.3,6300,1h 37m
+129. Shell,Horror,6.7,86,1h 40m
+130. Grafted,Horror,5.6,2800,1h 36m
+131. Devon,Horror,2.7,407,1h 12m
+132. Bhool Bhulaiyaa 3,Horror,4.6,78000,2h 38m
+133. Pins & Needles,Horror,5.8,73,1h 35m
+134. Peripheral,Horror,7.7,59,1h 28m
+135. The Corpse Washer,Horror,6.1,1400,1h 47m
+136. Devils Stay,Horror,4.8,387,1h 35m
+137. Blackwater Lane,Horror,4.6,2500,1h 48m
+138. Beezel,Horror,4.9,1700,1h 21m
+139. Milk & Serial,Horror,6.6,2800,1h 2m
+140. Test Screening,Horror,6.8,72,1h 32m
+141. Room Service,Horror,3.9,337,47m
+142. Pedro Páramo,Horror,6.3,3200,2h 10m
+143. Else,Horror,5.4,586,1h 42m
+144. Ba,Horror,5.7,145,1h 19m
+145. Handsome Guys,Horror,6.5,1300,1h 41m
+146. The Front Room,Horror,4.6,6000,1h 34m
+147. Outside,Horror,5.1,5000,2h 22m
+148. Handling the Undead,Horror,5.3,4700,1h 37m
+149. The Matriarch,Horror,8.1,208,1h 22m
+150. Kryptic,Horror,4.0,683,1h 42m
+151. #MissingCouple,Horror,5.3,834,1h 33m
+152. The Dead Thing,Horror,4.7,1100,1h 34m
+153. Pater Noster and the Mission of Light,Horror,7.1,153,1h 36m
+154. The Witch: Revenge,Horror,5.3,908,1h 40m
+155. Fear Cabin: The Last Weekend of Summer,Horror,3.6,37,1h 17m
+156. Jhamkudi,Horror,6.6,1000,2h 31m
+157. Desert Fiends,Horror,4.6,974,1h 46m
+158. House of Spoils,Horror,5.0,4100,1h 41m
+159. Drive Back,Horror,4.5,771,1h 34m
+160. Succubus,Horror,3.5,919,1h 36m
+161. Death Whisperer 2,Horror,6.3,1600,1h 50m
+162. A Desert,Horror,5.6,672,1h 43m
+163. The Severed Sun,Horror,4.9,450,1h 20m
+164. The Mouse Trap,Horror,2.4,3800,1h 20m
+165. Believer,Horror,4.6,481,1h 48m
+166. You Can't Run Forever,Horror,4.5,4500,1h 42m
+167. Parvulos,Horror,6.6,435,1h 59m
+168. Death's Sonata,Horror,8.4,564,1h 43m
+169. Little Bites,Horror,4.7,1400,1h 45m
+170. Missing Child Videotape,Horror,5.5,275,1h 44m
+171. Heresy,Horror,6.8,339,1h 1m
+172. The Hunted,Horror,5.1,446,1h 34m
+173. Night of the Zoopocalypse,Horror,6.0,1100,1h 31m
+174. Love Me Dead,Horror,6.6,45,1h 27m
+175. Up the Catalogue,Horror,8.2,13,1h 12m
+176. Pechi,Horror,5.5,1600,1h 50m
+177. Mr. Crocket,Horror,5.4,5100,1h 28m
+178. Strange Frequencies: Taiwan Killer Hospital,Horror,7.2,76,1h 31m
+179. Barda,Horror,4.6,761,1h 39m
+180. Munkar,Horror,5.2,583,1h 27m
+181. Dark Match,Horror,5.4,1200,1h 34m
+182. Baby Invasion,Horror,4.6,647,1h 20m
+183. The Gesuidouz,Horror,6.7,100,1h 33m
+184. Desert Road,Horror,6.8,170,1h 30m
+185. Krazy House,Horror,4.8,1600,1h 29m
+186. A Wedding Story,Horror,6.3,3400,1h 50m
+187. 1978,Horror,5.0,935,1h 20m
+188. The McKinney Family Home Videos,Horror,4.9,43,1h 8m
+189. The Painted,Horror,4.9,1300,1h 25m
+190. Swap,Horror,2.7,445,1h 26m
+191. The Demon Disorder,Horror,4.8,1400,1h 26m
+192. Wynonna Earp: Vengeance,Horror,5.6,1700,1h 36m
+193. Witch,Horror,4.9,1400,1h 47m
+194. Carved,Horror,4.4,2900,1h 35m
+195. The New Purge,Horror,N/A,N/A,N/A
+196. Killer Body Count,Horror,4.7,703,1h 49m
+197. Chain Reactions,Horror,7.2,130,1h 43m
+198. Shaitaan,Horror,6.5,55000,2h 12m
+199. Pacific Fear,Horror,3.6,342,1h 25m
+200. Out Come the Wolves,Horror,4.7,1800,1h 26m
+201. The Blackwell Ghost 8,Horror,6.1,431,1h 9m
+202. Bloodline Killer,Horror,4.3,5400,1h 45m
+203. Stupid Games,Horror,4.2,453,1h 26m
+204. The Ghost,Horror,6.3,133,1h 32m
+205. Horror in the High Desert 3: Firewatch,Horror,5.4,795,1h 28m
+206. Thayyal Machine,Horror,9.6,1000,1h 31m
+207. Anaconda,Horror,4.9,700,1h 24m
+208. Hauntology,Horror,3.7,385,1h 43m
+209. Street Trash,Horror,4.5,1000,1h 25m
+210. What Happened to Dorothy Bell?,Horror,7.3,13,N/A
+211. Latency,Horror,4.2,3000,1h 34m
+212. The Haunted Apartment: Miss K,Horror,5.6,546,1h 43m
+213. Scared Shitless,Horror,6.1,228,1h 16m
+214. Torture the Flesh,Horror,6.1,33,N/A
+215. In the Name of God,Horror,5.1,165,1h 29m
+216. Siccin 7,Horror,4.0,1100,1h 34m
+217. Old Wounds,Horror,7.4,17,1h 49m
+218. Black Cab,Horror,4.1,1900,1h 28m
+219. The Hangman,Horror,3.3,1100,1h 32m
+220. Conjuring the Cult,Horror,4.2,967,1h 33m
+221. Tantra,Horror,4.9,2400,2h 16m
+222. Here After,Horror,4.2,1900,1h 33m
+223. Bureau 749,Horror,3.9,595,2h 3m
+224. Behave,Horror,2.7,241,1h 28m
+225. Cursed,Horror,4.1,151,1h 21m
+226. Bystanders,Horror,4.0,442,1h 22m
+227. La Patasola,Horror,2.6,120,1h 21m
+228. La damnée,Horror,4.3,126,1h 20m
+229. Souls of the Damned,Horror,3.6,39,57m
+230. Aranmanai 4,Horror,5.0,2400,2h 28m
+231. Model House,Horror,4.0,1100,1h 25m
+232. Mutants of Nature Cove,Horror,3.6,170,1h 28m
+233. Dominion of Darkness,Horror,5.6,886,1h 36m
+234. I'll Play Mother,Horror,4.7,119,1h 48m
+235. The Train of Death,Horror,4.7,751,1h 43m
+236. Sorop,Horror,5.4,273,1h 43m
+237. Turno Nocturno,Horror,5.2,766,1h 47m
+238. Sala Escura,Horror,4.2,42,1h 35m
+239. Monster Mash,Horror,3.5,474,1h 25m
+240. Séance Games: Metaxu,Horror,3.2,258,1h 26m
+241. The Lost Daughter,Horror,5.6,348,1h 39m
+242. Freelance,Horror,4.8,400,1h 50m
+243. Bogieville,Horror,3.9,681,1h 48m
+244. Another Cabin in the Woods Movie,Horror,4.7,247,1h 17m
+245. Terminator: Skynet Rising,Horror,6.6,305,1h 28m
+246. Life of Belle,Horror,5.0,740,1h 13m
+247. Phallacies,Horror,8.7,8,1h 41m
+248. Invader,Horror,4.6,177,1h 10m
+249. Iconic,Horror,4.9,471,1h 30m
+250. Possession: Kerasukan,Horror,3.5,313,1h 34m
+251. Sakaratul Maut,Horror,5.4,197,1h 47m
+252. The Forbidden Camp: Mass Possession,Horror,6.1,398,1h 52m
+253. Down Below,Horror,2.5,223,1h 33m
+254. Drained,Horror,4.5,339,1h 47m
+255. Clickbait: Unfollowed,Horror,4.9,622,1h 30m
+256. Five Friends,Horror,6.7,1000,1h 52m
+257. Slay,Horror,6.5,1300,1h 39m
+258. Its Name Was Mormo,Horror,3.7,198,1h 33m
+259. Riders,Horror,6.3,543,1h 45m
+260. Protein,Horror,6.8,89,1h 40m
+261. Sam and Colby: The Legends of the Paranormal,Horror,4.8,321,1h 38m
+262. Territory,Horror,4.7,97,1h 33m
+263. Lumina,Horror,2.2,726,1h 53m
+264. Buzz House: The Movie,Horror,3.2,1400,1h 33m
+265. Suckers,Horror,2.3,134,1h 7m
+266. Angels Fallen: Warriors of Peace,Horror,4.8,6500,1h 43m
+267. Last Stop: Rocafort St.,Horror,4.1,527,1h 29m
+268. Dagr,Horror,4.2,2800,1h 17m
+269. Crackcoon,Horror,3.6,487,1h 28m
+270. Pusaka,Horror,5.2,211,1h 30m
+271. The Curse of the Necklace,Horror,4.5,1500,1h 39m
+272. Broken Bird,Horror,5.7,131,1h 39m
+273. Amp House Massacre,Horror,3.8,204,1h 20m
+274. Go Away,Horror,4.2,231,N/A
+275. Black Spines,Horror,6.9,25,1h 40m
+276. Cinderella's Revenge,Horror,3.8,1200,1h 25m
+277. Name the Demon,Horror,3.5,182,1h 17m
+278. Bhavanam: The Haunted House,Horror,6.5,19,2h 19m
+279. The Seductress from Hell,Horror,6.1,23,1h 42m
+280. The Deserving,Horror,7.1,83,N/A
+281. Xoftex,Horror,6.0,67,1h 39m
+282. Pinnil Oral,Horror,7.7,583,2h 7m
+283. Leech,Horror,N/A,N/A,1h 20m
+284. Do Not Enter,Horror,5.3,703,1h 25m
+285. We Are Wolves,Horror,3.4,286,1h 37m
+286. Cinderella's Curse,Horror,3.4,1400,1h 22m
+287. Murder Mubarak,Horror,5.8,51000,2h 20m
+288. X Files,Horror,2.5,78,1h 14m
+289. The Little Mermaid,Horror,3.5,227,1h 29m
+290. Frankie Freako,Horror,5.5,1500,1h 25m
+291. Gacy: Serial Killer Next Door,Horror,3.3,496,1h 37m
+292. Heretics,Horror,2.7,135,1h 23m
+293. Rippy,Horror,4.1,1000,1h 23m
+294. Crescent City,Horror,3.9,1500,1h 43m
+295. Sunrise,Horror,3.9,1300,1h 33m
+296. Hell Hole,Horror,4.5,1400,1h 32m
+297. Bloody Axe Wound,Horror,5.0,1100,1h 23m
+298. Bleeding,Horror,4.2,399,1h 37m
+299. The Monster Beneath Us,Horror,5.1,511,1h 43m
+300. Kalinga,Horror,6.6,9600,1h 56m
+301. DarkGame,Horror,4.6,3000,1h 40m
+302. Monster on a Plane,Horror,4.9,2700,1h 28m
+303. The Killgrin,Horror,5.9,101,1h 23m
+304. Operation Blood Hunt,Horror,3.4,547,1h 33m
+305. Invasive,Horror,5.6,831,1h 37m
+306. Campton Manor,Horror,3.4,267,1h 23m
+307. Saint Catherine,Horror,3.4,283,1h 26m
+308. Demonte Colony 2,Horror,6.5,4700,2h 24m
+309. Haunt Season,Horror,4.9,963,1h 21m
+310. The Bunker,Horror,4.3,378,1h 32m
+311. Dancing Village: The Curse Begins,Horror,5.7,4300,2h 2m
+312. The Banished,Horror,5.0,57,1h 37m
+313. Espantaho,Horror,4.8,279,1h 30m
+314. Paranoia,Horror,4.1,417,1h 35m
+315. Unspeakable: Beyond the Wall of Sleep,Horror,3.9,148,1h 30m
+316. Estela,Horror,6.0,42,1h 29m
+317. Witch Hunter,Horror,4.0,49,1h 20m
+318. (Pri)sons,Horror,4.9,316,1h 40m
+319. Indera,Horror,5.8,20,1h 44m
+320. The Moogai,Horror,5.4,488,1h 26m
+321. Operation Undead,Horror,4.7,488,1h 50m
+322. Butchers Book Two: Raghorn,Horror,4.1,691,1h 28m
+323. Revival,Horror,5.3,38,N/A
+324. Hide N Seek,Horror,8.8,2300,2h 14m
+325. #AMFAD: All My Friends Are Dead,Horror,4.5,1300,1h 31m
+326. Sattam En Kaiyil,Horror,7.9,2300,2h 4m
+327. Amityville: Where the Echo Lives,Horror,1.5,471,1h 29m
+328. Kakuda,Horror,5.4,6400,1h 56m
+329. Kang Mak,Horror,6.4,934,2h 2m
+330. 404 Run Run,Horror,5.7,534,1h 44m
+331. Goldilocks and the Three Bears: Death and Porridge,Horror,2.2,2200,1h 22m
+332. Curse of the Seven Oceans,Horror,5.5,555,1h 34m
+333. Seeds,Horror,5.0,255,1h 22m
+334. Happy Birthday Luci,Horror,9.4,61,1h 39m
+335. Exorcism Chronicles: The Beginning,Horror,6.4,149,1h 25m
+336. Wake,Horror,3.4,292,1h 25m
+337. Spiders on a Plane,Horror,3.9,502,1h 18m
+338. Poison Sangga: The Homewrecker's Curse,Horror,6.8,414,1h 58m
+339. Destroy All Neighbors,Horror,5.3,2100,1h 25m
+340. The Stalking,Horror,3.8,56,1h 12m
+341. Seven Cemeteries,Horror,4.6,680,1h 24m
+342. A Fisherman's Tale,Horror,5.7,178,1h 43m
+343. The Containment,Horror,4.7,87,1h 22m
+344. Vincent,Horror,6.0,421,1h 32m
+345. Mummy Shark,Horror,2.0,233,1h 6m
+346. Retreat,Horror,7.0,26,1h 33m
+347. Bull Shark 2,Horror,2.6,251,1h 15m
+348. Bad Fish,Horror,3.4,358,1h 24m
+349. Tenants,Horror,4.3,140,1h 34m
+350. Birthright,Horror,5.3,266,1h 20m
+351. Do You See What I See,Horror,5.4,724,1h 49m
+352. Alien Country,Horror,4.5,440,1h 36m
+353. The Woods,Horror,3.7,93,1h 16m
+354. Flesh of the Unforgiven,Horror,8.0,61,1h 28m
+355. The Cursed,Horror,4.1,120,1h 37m
+356. They Call Her Death,Horror,5.4,231,1h 32m
+357. Cocaine Werewolf,Horror,2.4,317,1h 20m
+358. Cora,Horror,4.5,964,1h 44m
+359. Delicate Arch,Horror,5.0,75,1h 25m
+360. Cellphone,Horror,3.0,763,1h 28m
+361. The Cellar,Horror,5.4,194,1h 25m
+362. Guardian,Horror,4.0,680,2h
+363. From Darkness,Horror,4.9,608,1h 35m
+364. 12 to Midnight,Horror,3.7,309,1h 36m
+365. Cara,Horror,5.8,88,1h 36m
+366. Wanita Ahli Neraka,Horror,5.0,330,1h 35m
+367. Don't Open the Door,Horror,6.6,8400,1h 27m
+368. My Boo,Horror,6.1,754,2h 5m
+369. Naalkane Aayama,Horror,7.3,2800,1h 48m
+370. A Very Special Terrifier Christmas,Horror,5.3,42,1h 10m
+371. Thaghut,Horror,5.8,350,1h 42m
+372. Ghost Game,Horror,3.4,398,1h 26m
+373. Winter Island,Horror,4.6,194,1h 42m
+374. Don't Make a Sound,Horror,3.5,50,1h 20m
+375. Nudus,Horror,6.4,54,1h 34m
+376. Festival of the Living Dead,Horror,4.3,687,1h 28m
+377. What Lurks Beneath,Horror,4.2,820,1h 42m
+378. Kuyang,Horror,5.2,519,1h 37m
+379. The Beast Inside,Horror,5.9,46,N/A
+380. Kromoleo,Horror,3.9,280,1h 20m
+381. Nokturno,Horror,3.7,234,1h 39m
+382. Butchers Book Three: Bonesaw,Horror,4.9,146,1h 47m
+383. ZombieCON Vol. 1,Horror,8.0,38,1h 50m
+384. Daft State,Horror,5.9,56,N/A
+385. Skeletons in the Closet,Horror,3.0,580,1h 32m
+386. The Legend of Lake Hollow,Horror,3.7,569,1h 28m
+387. Bull Shark 3,Horror,2.7,142,1h 16m
+388. Camp Pleasant Lake,Horror,3.3,2400,1h 30m
+389. The Backrooms,Horror,8.4,17,1h 3m
+390. Horny Teenagers Must Die!,Horror,3.2,253,1h 24m
+391. Terrestrial,Horror,N/A,N/A,1h 16m
+392. The American Backyard,Horror,6.0,290,1h 47m
+393. Cadi,Horror,6.3,4400,2h 14m
+394. Possessions,Horror,3.8,896,1h 29m
+395. Tsunami Sharks,Horror,2.2,113,1h 10m
+396. Death Streamer,Horror,3.0,244,1h 12m
+397. For Sale,Horror,4.9,686,1h 55m
+398. Salve Maria,Horror,6.4,552,1h 51m
+399. The Beldham,Horror,7.0,49,1h 25m
+400. Guna guna istri muda,Horror,5.2,212,1h 38m
+401. The Jack in the Box Rises,Horror,4.1,859,1h 32m
+402. Meathook,Horror,5.4,19,1h 42m
+403. Do Not Open,Horror,2.6,292,1h 31m
+404. Wineville,Horror,4.3,308,1h 40m
+405. The Devil's Disciples,Horror,8.0,51,1h 22m
+406. Last Night at Terrace Lanes,Horror,4.4,666,1h 15m
+407. The Vigil,Horror,7.4,5,1h 37m
+408. Dr. Sander's Sleep Cure,Horror,6.5,1300,1h 42m
+409. Ship of the Damned,Horror,2.8,313,1h 28m
+410. Scared to Death,Horror,6.6,34,1h 38m
+411. Jurassic Triangle,Horror,2.5,296,1h 24m
+412. Are You There?,Horror,6.1,82,1h 28m
+413. My Redneck Neighbor: Chapter 2 - Let the Games Begin,Horror,5.7,11,55m
+414. Mother Father Sister Brother Frank,Horror,5.7,324,1h 25m
+415. The Only Ones,Horror,6.9,34,1h 17m
+416. I Heart Willie,Horror,3.8,125,1h 28m
+417. Haze,Horror,6.4,54,1h 16m
+418. Vertical,Horror,5.2,152,1h 51m
+419. House on Haunted Hill,Horror,2.8,49,N/A
+420. Alyad Palyad,Horror,6.9,1200,2h 9m
+421. The Killers,Horror,6.1,80,1h 59m
+422. Granny,Horror,7.3,9,40m
+423. Air Fryer Slaughter,Horror,6.1,592,1h 30m
+424. Solvent,Horror,7.2,461,1h 34m
+425. Hello Neighbor,Horror,7.9,17,N/A
+426. Nearing Death,Horror,5.7,391,1h 36m
+427. Yagna,Horror,7.1,2200,2h 11m
+428. The Ritual,Horror,3.6,33,1h 40m
+429. The Sin,Horror,5.3,365,1h 43m
+430. Replicator,Horror,3.8,189,1h 15m
+431. Geethanjali Malli Vachindi,Horror,4.8,2200,2h 24m
+432. The Bad Nun 3,Horror,3.2,281,1h 12m
+433. Bhootpori,Horror,5.7,219,1h 50m
+434. Family,Horror,6.8,33,1h 35m
+435. Haunted Universities 3,Horror,5.4,330,1h 59m
+436. Dead Name,Horror,8.4,13,1h 24m
+437. Pasar Setan,Horror,6.7,64,1h 36m
+438. Bring on the Damned!,Horror,4.9,59,1h 54m
+439. The House on the Lake,Horror,N/A,N/A,1h 10m
+440. Soul Reaper,Horror,5.7,341,1h 52m
+441. The Hostage,Horror,4.8,17,1h 27m
+442. The Windigo,Horror,4.6,730,1h 25m
+443. Hishkenstien: After Dark,Horror,N/A,N/A,1h 2m
+444. The Captives,Horror,3.6,76,1h 13m
+445. In Search of Darkness 1990-1994: A Journey Into Iconic '90s Horror,Horror,8.0,180,6h 3m
+446. Till Death Do Us Part,Horror,6.3,286,1h 48m
+447. Love Me If You Dare,Horror,4.4,488,2h 8m
+448. Aiden,Horror,2.1,140,1h 14m
+449. Lopaliki Ra Chepta,Horror,7.7,1500,1h 52m
+450. Invited,Horror,5.2,261,1h 11m
+451. Hu Die Da Shia,Horror,4.2,67,1h 42m
+452. The Family Business,Horror,8.8,31,1h 29m
+453. Chainsaws Were Singing,Horror,7.2,393,1h 57m
+454. Remnant,Horror,2.6,337,1h 52m
+455. Curse of the Sin Eater,Horror,4.9,832,1h 30m
+456. Angel with a Gun,Horror,N/A,N/A,N/A
+457. Custom,Horror,6.6,48,1h 16m
+458. Blood Debt,Horror,5.3,233,1h 40m
+459. Rita,Horror,5.7,308,1h 47m
+460. Mountain Shark,Horror,3.6,179,1h 21m
+461. In Our Blood,Horror,6.8,52,1h 29m
+462. Night Shoot,Horror,5.5,102,1h 38m
+463. Clown II,Horror,7.6,16,2h 21m
+464. Darah Nyai,Horror,7.0,8,1h 30m
+465. American Werewolf,Horror,1.6,126,1h 7m
+466. Virgo,Horror,4.8,113,1h 27m
+467. Where is My Head?,Horror,6.8,84,1h 30m
+468. Oak,Horror,4.0,22,N/A
+469. Salem Witch Doll,Horror,2.3,152,1h 16m
+470. Temurun,Horror,4.6,368,1h 26m
+471. Dreams of flesh,Horror,5.7,14,1h
+472. SinÉl,Horror,5.1,31,1h 12m
+473. You Shall Not Sleep Tonight,Horror,4.0,406,1h 17m
+474. Steamboat Willie: Blood on the Water,Horror,N/A,N/A,N/A
+475. Coffintooth,Horror,7.5,14,N/A
+476. They Turned Us Into Killers,Horror,2.7,272,1h 26m
+477. Spring Garden,Horror,4.5,221,1h 30m
+478. House of Ashes,Horror,6.5,46,1h 35m
+479. The Redemption of Sin,Horror,5.7,254,1h 56m
+480. Hide and Seek,Horror,4.9,166,1h 24m
+481. Slashercise,Horror,4.9,17,58m
+482. Perewangan,Horror,5.4,190,1h 49m
+483. Texas Cult House,Horror,7.8,26,N/A
+484. Nyctophobia,Horror,6.7,1800,1h 30m
+485. Deadly Culture: Final Mutation,Horror,2.7,59,1h 9m
+486. Malice,Horror,2.8,49,1h 34m
+487. Whisper of the Witch,Horror,3.9,351,1h 35m
+488. A Stranger in the Woods,Horror,4.8,713,1h 23m
+489. Betting with Ghost,Horror,6.5,101,1h 52m
+490. History of Evil,Horror,3.4,835,1h 38m
+491. THEDÆMON,Horror,6.7,46,1h 27m
+492. Book of the Dead,Horror,5.3,81,1h 30m
+493. Shark Girl,Horror,2.6,194,1h 22m
+"494. Spider Baby, or The Maddest Story Ever Told",Horror,5.0,108,1h 12m
+"495. Hemet, or the Landlady Don't Drink Tea",Horror,4.3,103,1h 29m
+496. Grotesque 2,Horror,6.1,643,N/A
+497. Killer Influence,Horror,2.6,334,1h 24m
+498. Phantoms,Horror,3.9,15,N/A
+"499. Nanay, tatay",Horror,7.0,75,2h
+500. Trinil,Horror,4.5,388,1h 45m
+501. Psychopomp,Horror,9.0,6,1h 36m
+502. Our Happy Place,Horror,9.3,37,1h 30m
+503. Father's Haunted House,Horror,5.9,372,1h 33m
+504. H. P. Lovecraft's the Old Ones,Horror,3.6,423,1h 24m
+505. Crust,Horror,6.0,256,1h 42m
+506. Pale Horse,Horror,3.7,82,1h 27m
+507. The Girl Who Wore Yellow Lace,Horror,5.2,39,1h 22m
+508. Staycation,Horror,7.3,122,1h 34m
+509. Bag of Lies,Horror,3.8,603,1h 36m
+510. Space Sharks,Horror,1.6,346,1h 10m
+511. Shark Island,Horror,3.0,146,1h 21m
+512. Jugaremos en el bosque,Horror,4.9,107,1h 30m
+513. Hellhounds,Horror,3.3,189,1h 21m
+514. Una ballena,Horror,5.5,216,1h 48m
+515. Night Silence,Horror,5.5,302,1h 52m
+516. True Fear,Horror,4.6,329,1h 32m
+517. The Waves of Madness,Horror,5.2,131,1h 8m
+518. Burning Butterflies,Horror,7.6,101,1h 43m
+519. Effigy,Horror,2.8,268,1h 18m
+520. Watch If You Dare To,Horror,3.6,12,1h 5m
+521. Bloody Ishq,Horror,3.0,2200,2h 18m
+522. Within the Pines,Horror,6.4,21,1h 13m
+523. Bigfoot,Horror,5.5,27,N/A
+524. A Mother's Embrace,Horror,5.8,657,1h 30m
+525. The Hereditary,Horror,N/A,N/A,N/A
+526. Sengkolo: Malam satu suro,Horror,5.8,64,1h 40m
+527. Snakeeater,Horror,5.3,285,1h 20m
+528. Jinn Chapter 1,Horror,7.7,68,46m
+529. Etheria Film Night 2024,Horror,7.2,12,1h 52m
+530. The Best of Me,Horror,N/A,N/A,1h 29m
+531. All Hallows' Eve: Inferno,Horror,4.3,143,1h 14m
+532. Wild Animal,Horror,8.4,14,19m
+533. Camp Blood: Clown Shark,Horror,3.5,103,1h 10m
+534. The Ceremony Is About to Begin,Horror,4.4,853,1h 10m
+535. The Last Nightmare Part One,Horror,6.0,82,50m
+536. Shaman,Horror,5.2,75,1h 40m
+537. Park,Horror,6.9,381,1h 57m
+538. Darling,Horror,5.2,762,2h 39m
+539. Lampir,Horror,5.5,267,1h 37m
+540. Mystic Singer,Horror,4.9,254,1h 36m
+541. Dracula: The Count's Kin,Horror,5.2,51,N/A
+542. The Prodigy,Horror,4.6,39,1h 23m
+543. Mananambal,Horror,6.1,37,1h 40m
+544. Dosen Ghaib: It's Nighttime or You Already Know,Horror,4.1,326,1h 34m
+545. Scream 2,Horror,6.4,11,31m
+546. I Left My Heart in Colombia,Horror,7.3,459,N/A
+547. Alpacalypse,Horror,5.8,36,1h 17m
+548. Sana: Let Me Hear,Horror,5.6,88,2h 5m
+549. Tide,Horror,3.5,138,1h 22m
+550. Ronggeng Kematian,Horror,5.3,164,1h 38m
+551. Ladybug,Horror,5.5,34,1h 47m
+552. Dead Whisper,Horror,3.8,571,1h 28m
+553. Akkada Varu Ikkada Unnaru,Horror,9.1,1000,1h 43m
+554. Séance,Horror,8.1,28,1h 25m
+555. Forgive Me Father,Horror,3.5,125,1h 17m
+556. The Omicron Killer,Horror,2.9,603,1h 38m
+557. Vampire Zombies... From Space!,Horror,6.8,121,1h 38m
+558. The Cursed Land,Horror,5.5,315,2h 8m
+559. Final Girl: Halloween,Horror,4.6,114,1h 25m
+560. 9 Windows,Horror,3.6,333,1h 22m
+561. Erotik 2: The Beyond,Horror,N/A,N/A,1h 21m
+562. Kuang Bao Ju Xi,Horror,5.6,99,1h 15m
+563. A Halloween Feast,Horror,4.7,845,1h 43m
+564. The Clock,Horror,3.5,46,1h 20m
+565. Deadbolt,Horror,4.6,338,1h 23m
+566. Thine Ears Shall Bleed,Horror,6.2,1200,1h 42m
+567. Members Club,Horror,4.6,187,1h 30m
+568. H.P. Lovecraft's the Shadow Over Innsmouth,Horror,7.5,15,N/A
+569. Z Zone,Horror,3.7,65,1h 23m
+570. Silent Bite,Horror,3.7,536,1h 30m
+571. Ouija Castle,Horror,3.1,132,N/A
+572. Shark Exorcist 2: Unholy Waters,Horror,1.8,161,1h 14m
+573. The Occult,Horror,6.2,12,N/A
+574. Üç Harfliler: Nazar,Horror,4.8,198,1h 34m
+575. Easter Bloody Easter,Horror,3.3,325,1h 43m
+576. Spithood,Horror,5.4,1200,58m
+577. Bloody Bridget,Horror,7.0,54,1h 21m
+578. Kanakamahalakshmi,Horror,N/A,N/A,1h 50m
+579. A yard of jackals,Horror,7.4,46,1h 48m
+580. Guess Who,Horror,4.8,378,1h 33m
+581. The Notorious Finster,Horror,3.9,186,1h 53m
+582. The Haunting of Cottonwood,Horror,7.0,18,N/A
+583. The Spirit Hunter,Horror,4.1,35,1h 42m
+584. Manipula,Horror,8.5,35,1h 34m
+585. Camp Blood 9: Bride of Blood,Horror,6.3,549,N/A
+586. DreadClub: Vampire's Verdict,Horror,5.0,80,1h 28m
+587. Snow Angel of Revenge,Horror,3.8,68,1h 36m
+588. Burning,Horror,7.9,15,1h 41m
+589. There's a Zombie Outside,Horror,5.6,77,1h 15m
+590. Director's Cut,Horror,7.4,104,1h 30m
+591. Kutukan Calon Arang,Horror,5.5,18,1h 41m
+592. The Girl Who Cried Her Eyes Out,Horror,3.5,779,1h 34m
+"593. Silent Night, Bloody Night 3: Descent",Horror,3.2,213,1h 40m
+594. Jurnal Risa by Risa Saraswati,Horror,4.4,323,1h 32m
+595. Amityville Bigfoot,Horror,3.0,158,1h 28m
+596. Jeffrey's Hell,Horror,4.9,118,1h 20m
+597. The Epidemic,Horror,5.9,72,1h 35m
+598. Massacre at Femur Creek,Horror,6.5,653,1h 22m
+599. People in the Walls,Horror,3.3,58,1h 33m
+600. McCurdy Point,Horror,N/A,N/A,N/A
+601. Oculus,Horror,6.0,15,1h 53m
+602. Mannequin,Horror,6.5,119,N/A
+603. Valari,Horror,7.9,2600,2h 15m
+604. Unnatural,Horror,3.7,147,1h 43m
+605. The Last Chainsaw Massacre,Horror,3.7,43,1h 15m
+606. Salsa,Horror,5.7,302,1h 40m
+607. Terror Zone,Horror,3.3,11,1h 28m
+608. Who's Watching,Horror,8.0,14,N/A
+609. Good Neighbours,Horror,3.0,196,1h 24m
+610. The Buildout,Horror,4.0,109,1h 10m
+611. The Boys,Horror,4.6,144,2h 11m
+612. Dinosaur Hotel 3,Horror,2.7,165,1h 14m
+613. Halloween: Season of the Boogeyman,Horror,8.0,29,N/A
+614. Biaz: Kara Iyenin Laneti,Horror,5.1,408,1h 29m
+615. Peter Rabid,Horror,6.2,10,N/A
+616. Daylight to Dark,Horror,4.3,12,N/A
+617. What Lives Here,Horror,9.0,11,N/A
+618. Huntress,Horror,3.0,89,1h 17m
+619. Hunters on a White Field,Horror,4.9,472,1h 40m
+620. Scarytales and Deadtime Stories,Horror,5.2,19,1h 7m
+621. Itch!,Horror,6.8,8,1h 22m
+622. HMM Hug Me More,Horror,8.1,1100,1h 42m
+623. Purgatory Station,Horror,3.4,63,1h 49m
+624. Holnap meghalok,Horror,4.2,143,1h 25m
+625. The Deadly Swarm,Horror,2.5,207,1h 21m
+626. Amityville Turkey Day,Horror,3.1,367,1h 34m
+627. Migraine,Horror,8.2,25,1h 5m
+628. Into Nightmares,Horror,N/A,N/A,1h 25m
+629. The Sisters,Horror,4.7,165,2h 2m
+630. Vampire Lake,Horror,5.3,163,N/A
+631. Pee Nak 4,Horror,4.8,418,1h 55m
+632. Chateau,Horror,4.0,305,1h 23m
+633. Night of the Strangers,Horror,4.0,9,N/A
+634. The Woods Are Real,Horror,2.4,476,1h 20m
+635. Run!,Horror,3.4,107,1h 26m
+636. Obayifo Project,Horror,5.1,373,1h 11m
+637. This Man,Horror,5.1,24,1h 29m
+638. Quadrant,Horror,4.3,157,1h 13m
+639. Lost Angels,Horror,6.0,215,1h 36m
+640. Mandira,Horror,5.8,1000,2h 1m
+641. Ghost Island,Horror,6.9,60,1h 35m
+642. Feet of Death,Horror,3.9,246,1h 46m
+643. Waltz,Horror,9.4,8,N/A
+644. Antropophagus Legacy,Horror,N/A,N/A,1h 40m
+645. Bigfoot Exorcist,Horror,2.6,233,1h 10m
+646. He Sees You When You're Sleeping,Horror,4.2,157,1h 23m
+647. The Camp Host,Horror,4.3,304,1h 35m
+648. Catch a Killer,Horror,5.8,16,1h 22m
+649. El instinto,Horror,6.6,126,1h 32m
+650. Camp Terror,Horror,4.5,42,1h 50m
+651. Karkhanu,Horror,9.1,69,N/A
+652. Pigman,Horror,2.5,119,1h 38m
+653. The Girl in the Trunk,Horror,3.4,355,1h 30m
+654. Solitude,Horror,6.0,53,1h 37m
+655. Christmas Slasher,Horror,4.8,10,N/A
+656. Nyctophobia,Horror,2.6,174,1h 17m
+657. This Never Happened,Horror,4.7,391,1h 30m
+658. Guys at Parties Like It,Horror,3.9,178,1h 19m
+659. Followers,Horror,3.6,262,1h 14m
+660. Maya,Horror,N/A,N/A,1h 48m
+661. Bhairadevi,Horror,8.6,56,2h 14m
+662. Dead Teenagers,Horror,3.2,159,1h 20m
+663. Z-Mom,Horror,4.8,48,1h 30m
+664. Marni: The Story of Wewe Gombel,Horror,6.7,1000,1h 59m
+665. Trucker,Horror,N/A,N/A,N/A
+666. Perempuan Pembawa Sial,Horror,N/A,N/A,1h 37m
+667. Killington,Horror,2.8,192,1h 27m
+668. Red Night at Skye's,Horror,6.9,16,1h 22m
+669. Dinner with Leatherface,Horror,7.3,44,1h 46m
+670. Vexanthrone,Horror,5.3,25,1h 5m
+671. Las Tias,Horror,4.8,272,1h 27m
+672. Mueng non mueng tai,Horror,2.3,14,1h 39m
+673. Dooba Dooba,Horror,6.8,17,1h 16m
+674. Blood Mountain Massacre,Horror,4.8,48,1h 29m
+675. Deadly Retreat,Horror,4.8,114,46m
+676. Devil,Horror,4.5,1600,1h 58m
+677. Dr. Jason II: Lights & Shadows,Horror,4.9,383,1h 2m
+678. Sun,Horror,8.3,38,1h 15m
+679. Anatema,Horror,4.2,227,1h 31m
+680. Crispy,Horror,3.3,100,1h 16m
+681. Apokrif,Horror,8.7,23,1h 4m
+682. Trizombie,Horror,7.3,63,1h 22m
+683. Chum!,Horror,3.2,84,N/A
+684. Spirit Riser,Horror,6.3,42,1h 38m
+685. OMG: O Manchi Ghost,Horror,5.1,592,2h 5m
+686. Video Vision,Horror,5.8,21,1h 18m
+687. The Box,Horror,3.4,84,1h 19m
+688. Interlopers,Horror,5.0,85,1h 46m
+689. Water Horse,Horror,5.1,264,1h 25m
+690. Creep Encounters,Horror,4.0,139,1h 12m
+691. Spirit Whisker: The Revenant,Horror,5.3,65,1h 49m
+692. The Naughty List of Mr. Scrooge,Horror,4.5,216,1h 30m
+693. Mister Sleep,Horror,3.5,183,1h 34m
+694. What Happened to Suzy,Horror,6.3,96,1h 34m
+695. Isleen Pines,Horror,5.3,740,1h 24m
+696. Hüddam 4: Ahmer,Horror,4.6,40,1h 26m
+697. Tu Sangre,Horror,3.9,112,1h 21m
+698. A Game in the Woods,Horror,7.0,32,1h 20m
+699. The Carters,Horror,5.2,29,1h 15m
+700. Carnage for Christmas,Horror,4.5,355,1h 9m
+701. Bury Your Dead,Horror,5.4,84,2h 8m
+702. Echoes of Crystal Lake: A Friday the 13th Story,Horror,8.4,16,3m
+703. The Girl 2,Horror,N/A,N/A,1h 39m
+704. Hunter of the Night,Horror,5.4,63,1h 30m
+705. Deadly Culture: Species X,Horror,2.9,62,1h 11m
+706. Halloween: The Hunt of Michael Myers,Horror,8.5,14,1h 21m
+707. .ask,Horror,6.9,97,1h 29m
+708. Intrusive,Horror,N/A,N/A,1h 6m
+709. Salt Along the Tongue,Horror,7.7,10,1h 53m
+710. Bloody Trip: The Equinox Killer,Horror,4.8,85,1h 20m
+711. Sharkers,Horror,4.1,174,1h 28m
+712. Saka Perawan,Horror,5.1,57,1h 31m
+713. Rerouting,Horror,4.1,171,1h 26m
+714. Mona: Jinn-2,Horror,4.1,132,2h 4m
+715. No Voltees,Horror,5.5,232,1h 34m
+716. Killjoy: Terrify,Horror,3.0,34,N/A
+717. Mother Goose's ScaryTales,Horror,5.8,20,54m
+718. Cult of Blood,Horror,3.6,77,N/A
+719. Stream,Horror,4.1,54,1h 25m
+720. The Coldness,Horror,5.2,87,N/A
+721. The Last Podcast,Horror,6.8,9,1h 38m
+722. Head Like a Hole,Horror,6.2,33,1h 33m
+723. Dark Chronicles,Horror,3.8,9,1h 15m
+724. Trolled,Horror,4.2,28,1h 20m
+725. Gone with the Dead,Horror,4.0,63,1h 36m
+726. The Exorcism of Saint Patrick,Horror,3.6,178,1h 30m
+727. Apex Predators 2: The Spawning,Horror,3.2,33,1h 10m
+728. Kifn,Horror,7.2,734,1h 40m
+729. All We Wanted,Horror,3.5,73,1h 43m
+730. Ice Nine Kills Presents: Welcome to Horrorwood,Horror,8.3,36,1h 16m
+731. Night Harvest,Horror,4.6,70,N/A
+732. Lord of Wolves,Horror,2.8,145,1h 27m
+733. Visher,Horror,4.3,398,1h 5m
+734. Graveyard Shark,Horror,3.4,244,1h 37m
+735. The Vord,Horror,3.4,76,1h 41m
+736. Overkill,Horror,2.7,34,N/A
+737. Take Good Care,Horror,6.1,8,1h 41m
+738. Janji Darah,Horror,4.4,176,1h 44m
+739. The Book of the Witch,Horror,4.3,164,1h 13m
+740. 200KG Vampire,Horror,4.0,62,1h 33m
+741. The Hunter's Anthology: The Demon Hunter,Horror,4.7,105,2h 6m
+742. All That Remains,Horror,5.9,27,1h 10m
+743. The Candy Store,Horror,4.0,93,1h 26m
+744. The Night of the Harvest,Horror,4.5,503,2h 6m
+745. Alone,Horror,7.3,16,1h 28m
+746. Agapouse ta louloudia perissotero,Horror,5.3,193,1h 26m
+747. Dwiju,Horror,4.6,17,1h 25m
+748. Ga la,Horror,4.2,28,1h 37m
+749. Jeonde Raho Bhoot Ji,Horror,5.2,145,1h 52m
+750. Murderfest,Horror,2.9,235,1h 22m
+751. Pagpag 24/7,Horror,4.3,65,2h 10m
+752. The Unsolved Love Hotel Murder Case Incident,Horror,7.3,8,1h 10m
+753. Maya,Horror,7.0,9,1h 49m
+754. Deviant,Horror,5.2,49,1h 20m
+755. Love Bites,Horror,N/A,N/A,N/A
+756. Bangsal Isolasi,Horror,4.8,183,1h 16m
+757. Retratos del Apocalipsis,Horror,7.9,22,1h 15m
+758. Vegan,Horror,4.8,17,N/A
+759. Monster Awakens,Horror,5.6,846,1h 14m
+760. Byte,Horror,3.3,166,1h 37m
+761. The Alien Report,Horror,4.6,157,1h 21m
+762. Jonestown: The Final Reckoning,Horror,4.3,7,59m
+763. Mulm,Horror,5.8,74,1h 38m
+764. I Heard You Buy Souls,Horror,2.7,52,1h 28m
+765. Silence of the Prey,Horror,3.8,303,1h 37m
+766. Swoon,Horror,6.1,29,1h 23m
+767. The Yorkie Werewolf,Horror,5.6,98,N/A
+768. Twelve,Horror,6.7,19,N/A
+769. Grandma,Horror,6.2,6,N/A
+770. Trivial,Horror,5.0,38,N/A
+771. Agrinai,Horror,7.9,69,1h 33m
+772. The Mitchin Murders,Horror,5.2,88,1h 18m
+773. How to Make a Werewolf,Horror,5.5,146,N/A
+774. Watch Them Come Blood,Horror,7.7,8,1h 22m
+775. Shadows Side,Horror,2.0,145,1h 30m
+776. Scopophobia,Horror,5.3,92,1h 40m
+777. Trope,Horror,4.2,41,1h 26m
+"778. The Haunted, the Possessed and the Damned",Horror,2.6,65,1h 51m
+779. Pasahero,Horror,6.1,27,2h
+780. Art of a Hit,Horror,4.2,223,1h 33m
+781. A Savior Red,Horror,5.0,272,1h 27m
+782. Don't Look Back... I Know Your Origins,Horror,3.7,116,1h 44m
+783. The Monsters Under Our Bed,Horror,5.8,12,2h 7m
+784. McConadilla,Horror,N/A,N/A,1h 50m
+785. The Caller,Horror,6.8,14,1h 20m
+786. C202,Horror,4.9,2200,2h 15m
+787. Kabir Azabi: Insi ve Cinni,Horror,4.0,23,1h 25m
+788. The Shadow,Horror,6.4,289,1h 30m
+789. Island of the Dolls 2,Horror,3.0,168,1h 23m
+790. Operation Laila,Horror,5.5,58,2h 3m
+791. Listen Carefully,Horror,3.3,150,1h 21m
+792. My Zombabe,Horror,5.0,94,1h 45m
+793. Anxiety,Horror,7.8,8,1h 37m
+794. The Last Ritual,Horror,7.7,10,1h 40m
+795. Tenement,Horror,4.6,133,1h 28m
+796. Liu mang qu mo shi,Horror,5.8,63,1h 44m
+797. Ma Da: The Drowning Spirit,Horror,4.4,220,1h 30m
+798. Pandora,Horror,3.8,24,N/A
+799. Haunted by Her Name,Horror,2.8,96,1h 30m
+800. Chuzalongo,Horror,6.8,6,1h 35m
+801. Bloody Mary,Horror,3.8,7,1h 12m
+802. Devil's Horns,Horror,4.6,128,1h 21m
+803. Tanz der Toten,Horror,N/A,N/A,2h 1m
+804. The After Dark,Horror,5.5,6,N/A
+805. Oh My Ghost: The Finale,Horror,6.8,39,1h 52m
+806. Undying,Horror,6.5,15,26m
+807. A Time to Die,Horror,N/A,N/A,1h 45m
+808. Granny Krampus,Horror,2.6,128,1h 21m
+809. Big Bad CGI Monsters,Horror,4.8,44,1h
+810. Neon Fear,Horror,5.7,629,40m
+811. You Shouldn't Have Let Me In,Horror,4.1,187,1h 24m
+812. Toxic Daughter,Horror,5.3,58,1h 45m
+813. Chasing Zombies: A George Romero Tribute,Horror,9.0,8,1h 45m
+814. The Summer We Died,Horror,5.0,440,1h 13m
+815. Curtains for Christmas,Horror,5.4,69,1h 10m
+816. Tragic Waste,Horror,7.9,96,1h 17m
+817. Slaughterhouse on the Hill,Horror,2.6,135,1h 12m
+818. Thookudurai,Horror,4.3,2300,2h 5m
+819. Never Have I Ever,Horror,N/A,N/A,N/A
+820. Cruel Summer III: Pray for Fall,Horror,4.3,21,1h 49m
+821. The Haunted Studio,Horror,3.6,202,1h 30m
+822. The Depths,Horror,N/A,N/A,1h 28m
+823. Amigo,Horror,N/A,N/A,N/A
+824. Alem-i Cin 5: Azap,Horror,4.1,15,1h 16m
+825. El día de la tormenta,Horror,8.6,5,N/A
+826. The Apocalypse Box,Horror,3.3,250,1h 26m
+827. An Intruder Among Us,Horror,8.7,41,N/A
+828. Sea of Madness,Horror,6.9,32,1h 33m
+829. Witches' Well,Horror,2.5,88,1h
+830. The Convent,Horror,3.9,24,1h 20m
+831. Resident Evil Story,Horror,3.0,16,N/A
+832. Dead Rock,Horror,3.7,7,1h 11m
+833. Nenu Keerthana,Horror,8.9,2100,2h 35m
+834. Framed,Horror,2.6,122,N/A
+835. Blood Red River Bed,Horror,5.7,24,N/A
+836. Demo_n,Horror,4.9,52,1h 15m
+837. Nanoshark,Horror,4.7,29,N/A
+838. Mother Maker Lover Taker,Horror,5.9,46,1h 39m
+839. Continente,Horror,5.1,100,1h 55m
+840. Himalaya,Horror,3.2,406,1h 25m
+841. Inverted,Horror,4.0,59,1h 28m
+842. Man in the Fields,Horror,5.9,71,N/A
+843. Harvest,Horror,5.3,19,N/A
+844. Slave Dolls 2: Red Rooms,Horror,2.1,8,17m
+845. Blood of the Werewolf's Claw,Horror,2.7,7,1h 30m
+846. Korku Kapani (Sessiz Ciglik),Horror,N/A,N/A,1h 7m
+847. I Joined a Cult,Horror,4.4,107,N/A
+848. Blood Magick,Horror,9.2,13,1h 39m
+849. Serena Versus,Horror,N/A,N/A,N/A
+850. Are You Dead Yet?,Horror,6.4,11,N/A
+851. Inherit the Witch,Horror,3.2,58,1h 25m
+852. Weekend Deadaway,Horror,4.9,89,N/A
+853. Dante's Inferno,Horror,N/A,N/A,N/A
+854. Claws,Horror,5.8,8,1h 36m
+855. Ame no naka no yokujô,Horror,5.8,92,2h 12m
+856. Game of Death: The Six Doors to Hell,Horror,6.7,8,2h 25m
+857. Chithini,Horror,5.9,553,2h 31m
+858. Holy Mother,Horror,N/A,N/A,1h 35m
+859. Project Dorothy,Horror,3.9,3200,1h 20m
+860. Insane Like Me?,Horror,4.4,60,1h 26m
+861. Hotel Underground,Horror,7.6,78,N/A
+862. The Town Without Halloween,Horror,5.5,87,1h 28m
+863. Hell Squad 2: Fresh Meat,Horror,9.3,21,1h 35m
+864. Tahoe Joe 2: The Sierra Nevada Bigfoot Conspiracy,Horror,4.3,260,1h 14m
+865. Zim Zim Ala Kazim,Horror,3.6,115,1h 40m
+866. Mr. Sandman,Horror,6.3,32,47m
+867. Cadet,Horror,6.9,61,2h 6m
+868. Don Dukun,Horror,7.1,61,1h 38m
+869. Stereoscope,Horror,4.0,132,1h 31m
+870. Left One Alive,Horror,3.7,31,1h 29m
+871. Happy Halloween,Horror,6.2,23,1h 36m
+872. Big Cats,Horror,2.9,157,1h 33m
+873. A Haunting in Council House,Horror,4.9,57,1h 34m
+874. The Despaired,Horror,6.5,37,2h 10m
+875. Jurassic Exorcist,Horror,4.3,24,1h 16m
+876. 4:44 : Time of Fear,Horror,5.4,23,44m
+877. Fangs Out: Blood Apocalypse,Horror,4.5,28,N/A
+878. Bring Me a Skin for Dancing In,Horror,4.1,201,N/A
+879. Halloween: Evil Lives,Horror,3.6,121,N/A
+880. Creepypasta: Deathnet,Horror,3.3,69,1h 11m
+881. Death Bitch,Horror,7.4,23,1h 28m
+882. Oru Kadha Sollattaa Sir,Horror,6.1,41,2h 10m
+883. Morena,Horror,5.4,131,1h 46m
+884. 1st Japan Horror Film Competition: Winning Works,Horror,N/A,N/A,1h 45m
+885. Colour Palette,Horror,9.4,53,1h 27m
+886. Bedtime Stories: Tales of Love and Hate,Horror,7.7,15,1h 5m
+887. The Bench,Horror,3.8,189,1h 15m
+888. Monkey's Magic Merry Go Round,Horror,7.4,12,1h 31m
+889. The Point Pleasant Tapes,Horror,N/A,N/A,N/A
+890. The Melon Heads: House of Crow,Horror,6.4,30,N/A
+891. Cholo Zombies,Horror,4.6,109,1h 36m
+892. Watch Us Kill,Horror,5.6,66,N/A
+893. Secret Shadow,Horror,7.4,18,1h 22m
+894. Man in the Blue Suit,Horror,4.7,21,N/A
+895. Coven of the Black Cube,Horror,7.2,28,1h 37m
+896. Passages of Nexus,Horror,5.3,327,1h 48m
+897. Blood and Black,Horror,6.9,1100,1h 28m
+898. In Tenebras: Into the Darkness,Horror,2.6,183,1h 30m
+899. El tema del verano,Horror,7.2,25,1h 31m
+900. Amityville Backrooms,Horror,3.7,40,1h 12m
+901. Cold Blows the Wind,Horror,5.7,807,1h 25m
+902. Bad Ben 14: Frankenstein,Horror,N/A,N/A,1h 46m
+903. Videotheque,Horror,5.2,108,1h 52m
+904. A Hell of a Difference,Horror,4.7,53,1h 20m
+905. Pesadilla,Horror,6.5,50,1h 52m
+906. O Clube das Mulheres de Negócios,Horror,4.7,115,1h 35m
+907. In the Belly of a Tiger,Horror,7.5,104,1h 31m
+908. Terrornet,Horror,3.7,96,1h 28m
+909. Bad Things,Horror,5.4,18,N/A
+910. Jinxx Presents: The Devil's Vortex,Horror,7.3,56,N/A
+911. Halloween: Mal Eterno,Horror,8.2,235,50m
+912. The Gatekeeper,Horror,5.5,21,1h 37m
+913. Ketchup on Waffles,Horror,N/A,N/A,1h 21m
+914. Cursed in Baja,Horror,6.7,35,1h 20m
+915. Wayward Sisters,Horror,N/A,N/A,N/A
+916. SMB-plush presents trick or death,Horror,8.0,17,2h
+917. Devil Hunters,Horror,8.7,129,2h
+918. Wolves Against the World,Horror,3.4,68,1h 28m
+919. Tumbal Darah,Horror,N/A,N/A,1h 32m
+920. A Cold Grave,Horror,3.5,280,1h 15m
+921. Death Ph.D,Horror,2.0,146,1h 47m
+922. Nûfer,Horror,2.8,16,1h 38m
+923. A Maldição de Romanova,Horror,5.0,22,1h 20m
+924. TapewormZ,Horror,5.1,30,N/A
+925. The Night Curse of Reatrei,Horror,4.4,121,1h 35m
+926. Sankta Lucia,Horror,6.3,46,N/A
+927. Alone in the Night,Horror,3.8,8,N/A
+928. 30 to 45,Horror,3.5,21,1h 58m
+929. Ripper Revealed,Horror,3.6,205,1h 10m
+930. Night Talkers,Horror,4.0,107,1h 29m
+931. Firework,Horror,6.1,14,1h
+932. I Awoke Early the Day I Died,Horror,N/A,N/A,1h 30m
+933. BlackOut,Horror,6.9,23,N/A
+934. Paku Tanah Jawa,Horror,4.2,125,1h 40m
+935. Appetite for Sin,Horror,5.1,73,N/A
+936. Nowhere Land,Horror,3.4,14,1h 24m
+937. Blood and Breakfast,Horror,5.8,32,1h 24m
+938. The Vampire and the Vigilante,Horror,3.5,56,1h 15m
+939. Kabandha,Horror,9.2,30,2h 4m
+940. Asgaar,Horror,9.2,43,2h 18m
+941. Untitled Footage,Horror,5.7,31,N/A
+942. Killer Campout Part II,Horror,5.4,31,1h 33m
+943. Para Betina Pengikut Iblis: Part 2,Horror,4.0,133,1h 30m
+944. Blood Dried Hands,Horror,6.3,171,1h 55m
+945. Waruga: Kutukan Ilmu Hitam,Horror,6.3,34,1h 25m
+946. Beach Chain,Horror,N/A,N/A,N/A
+947. Dia de Finados,Horror,9.2,9,1h 17m
+948. Cruel: The Cross Village Encounter,Horror,4.5,48,57m
+949. II,Horror,8.6,30,21m
+950. A Most Atrocious Thing,Horror,3.8,265,1h 15m
+951. Night Games,Horror,5.6,290,1h 39m
+952. Fright,Horror,6.3,79,1h 21m
+953. Side Effects May Vary,Horror,7.2,43,1h 21m
+954. Jason in Indianapolis: A Friday the 13th Tribute,Horror,6.5,25,2h
+955. Treasures of Terror: Vol 1,Horror,4.2,21,N/A
+956. The Trail,Horror,7.8,38,1h 20m
+957. Küffar,Horror,4.8,20,N/A
+958. Dosa Musyrik,Horror,6.7,17,1h 32m
+959. Quadrant: Noir Version,Horror,7.2,13,1h 13m
+960. Wind and Bone,Horror,5.8,19,1h 33m
+961. Jimmy,Horror,4.1,218,1h 25m
+962. Jason Escaped from Hell: A Friday the 13th Fan Film,Horror,N/A,N/A,N/A
+963. [null],Horror,N/A,N/A,N/A
+964. I Saw Black Clouds,Horror,3.9,37,1h 19m
+965. Horror Stories,Horror,5.1,57,N/A
+966. Cold Blooded,Horror,4.2,18,1h 18m
+967. Play Along,Horror,N/A,N/A,1h 30m
+968. Indelebile,Horror,8.7,8,N/A
+969. Halloween Massacre,Horror,7.1,30,N/A
+970. LOON!,Horror,8.0,8,N/A
+971. Influenza,Horror,4.3,35,1h 38m
+972. Spooky Society,Horror,N/A,N/A,N/A
+973. Sorority Girl Massacre: Guts of Ecstasy,Horror,N/A,N/A,54m
+974. Roxana,Horror,3.9,70,1h 38m
+975. Aphasia,Horror,4.9,19,N/A
+976. El Kafirun,Horror,6.6,20,1h 10m
+977. There Is a Monster,Horror,3.7,179,1h 22m
+978. Brain Tumor,Horror,3.8,52,1h 16m
+979. Psycho Science,Horror,5.7,29,N/A
+980. The Whisper in the Woods,Horror,5.4,42,1h 11m
+981. Idiot Girls and School Ghost: School Anniversary,Horror,7.0,67,1h 30m
+982. I'm Haunted 3,Horror,5.8,56,N/A
+983. Death Web,Horror,5.5,88,1h 4m
+984. The World Drops Dead,Horror,8.4,7,1h 11m
+985. The Final Party,Horror,3.5,10,1h 18m
+986. Alien Legacy: Terror on Luxor Ridge,Horror,5.7,22,2h 7m
+987. Elf in the Hood,Horror,4.5,21,1h 16m
+988. Synthwave Horror: Frankenstein's Castle of Freaks,Horror,N/A,N/A,N/A
+989. Malee,Horror,3.4,15,1h 25m
+990. Terror of the Soul,Horror,N/A,N/A,N/A
+991. Murdaritaville,Horror,3.4,118,1h 2m
+992. Amityville AI,Horror,3.9,52,N/A
+993. A Gong,Horror,6.0,13,1h 47m
+994. Enasar: Sirayet-i Cin,Horror,6.3,19,N/A
+995. Dead Fun,Horror,9.0,12,1h 1m
+996. Huggin Molly,Horror,5.9,88,54m
+997. The John Perkins Tapes,Horror,4.5,16,1h 17m
+998. Earworm,Horror,2.4,221,1h 41m
+999. P2,Horror,4.5,10,1h 45m
+1000. The Twelve Step Strangler,Horror,4.6,7,N/A
+1001. Black Theta,Horror,7.4,11,1h 49m
+1002. Wieland,Horror,5.7,19,N/A
+1003. The Devil Inside Her,Horror,5.5,16,N/A
+1004. FPS,Horror,4.3,20,1h
+1005. Possession Street,Horror,6.5,41,1h 36m
+1006. Sinakagon,Horror,6.9,33,1h 55m
+1007. Arctic Hollow,Horror,2.3,187,1h 10m
+1008. Son of Gacy,Horror,N/A,N/A,N/A
+1009. The Awkward Stage,Horror,5.6,16,1h 9m
+1010. Garez,Horror,2.8,19,N/A
+1011. Misteri Bilik Korek Api,Horror,5.6,10,1h 13m
+1012. Wonderland,Horror,6.8,13,2h
+1013. Petualangan Anak Penangkap Hantu,Horror,5.7,28,1h 39m
+1014. Hellvira's Haunted Asylum of Horror,Horror,5.8,38,1h 58m
+1015. Slay Ride - The Movie,Horror,N/A,N/A,1h 25m
+1016. Talahib,Horror,5.4,21,1h 23m
+1017. The Frontrooms,Horror,3.3,44,1h 14m
+1018. Campfire Dead by Dawn,Horror,3.0,65,1h 27m
+1019. Amityville VR,Horror,3.4,33,N/A
+1020. The Unrighteous,Horror,5.1,35,1h 27m
+1021. Slenderverse: The Rise and Fall of Slenderman,Horror,8.8,7,1h 56m
+1022. Nosferatu: A Symphony of Horror - Audio Score by idiedtrying.,Horror,7.5,11,1h 34m
+1023. I'm Haunted 2,Horror,5.3,90,N/A
+1024. STEVE (A Minecraft Movie),Horror,6.9,14,1h 1m
+1025. 105 Minutes,Horror,3.4,2300,2h
+1026. Boney Island Reality Show,Horror,4.2,23,1h 27m
+1027. Easter Evil,Horror,1.5,153,1h 12m
+1028. Abduction: The Harvesting,Horror,5.5,15,N/A
+1029. Histórias Estranhas 2,Horror,7.6,7,1h 22m
+1030. Don't Break the Rules,Horror,2.7,57,1h 37m
+1031. Wishes of the Blue Girl,Horror,4.3,382,1h 13m
+1032. Behold the Claw,Horror,5.6,18,1h 15m
+1033. Severance Mountain,Horror,5.3,18,1h 14m
+1034. Kabir Azabi 2,Horror,2.5,10,N/A
+1035. Lipstick on the Glass,Horror,4.1,14,1h 56m
+1036. Synthwave Horror: The Cabinet of Dr. Caligari,Horror,N/A,N/A,N/A
+1037. The Mermaid,Horror,7.8,36,1h 45m
+1038. Voidcaller,Horror,6.6,43,1h 25m
+1039. Der Doktor - L'ombra della morte,Horror,5.3,18,N/A
+1040. Siapa Buka Lampu?,Horror,7.3,7,1h 32m
+1041. The Circle of Death,Horror,7.4,5,1h 26m
+1042. Welcome Week: A College Horror Anthology,Horror,4.0,129,1h 38m
+1043. Dont,Horror,N/A,N/A,47m
+1044. Prethangalude Koottam,Horror,9.2,7,N/A
+1045. In the Room Where He Waits,Horror,4.9,87,1h 23m
+1046. Aranam,Horror,7.5,402,2h 7m
+1047. Killer Rental,Horror,N/A,N/A,1h 26m
+1048. Screamwalkers,Horror,3.9,57,1h 2m
+1049. The Film Café,Horror,N/A,N/A,N/A
+1050. Day of the Clones,Horror,3.9,66,1h 38m
+1051. The Damned Lands,Horror,N/A,N/A,N/A
+1052. Oh...My Wife,Horror,N/A,N/A,1h 34m
+1053. Wrong Places,Horror,2.1,65,1h 33m
+1054. La Hierba del Diablo,Horror,3.8,52,1h 20m
+1055. Diwe,Horror,N/A,N/A,N/A
+1056. The Red Box Project,Horror,N/A,N/A,N/A
+1057. The Girl in Yellow,Horror,N/A,N/A,1h 25m
+1058. Teddiscare,Horror,2.0,177,1h 22m
+1059. Apocalypse Love,Horror,7.5,9,N/A
+1060. Unknown Caller,Horror,7.3,35,1h 3m
+1061. Dabba,Horror,5.0,22,1h 15m
+1062. For God's Sake Wake Her Up,Horror,6.2,10,N/A
+1063. States of Mind,Horror,N/A,N/A,2h
+1064. Ananya,Horror,8.8,888,2h 16m
+1065. Cin Köyü,Horror,1.0,15,1h 15m
+1066. Bigfoot: The Movie - The Sequel,Horror,5.2,18,N/A
+1067. Amityville Webcam,Horror,3.8,19,1h 42m
+1068. Zombies: Christmas Apocalypse,Horror,2.3,26,N/A
+1069. Lizzie Lazarus,Horror,4.2,111,1h 31m
+1070. Zuhruf Saye,Horror,3.8,13,N/A
+1071. Tie Die,Horror,3.0,8,1h 20m
+1072. Town Mall 2,Horror,6.9,16,1h 26m
+1073. Historias de Halloween,Horror,6.6,26,1h 20m
+1074. Body & Soul,Horror,3.1,43,1h 15m
+1075. Killcast,Horror,4.9,7,N/A
+1076. Shadows of Bigfoot,Horror,4.0,146,1h 13m
+1077. Finger Licking,Horror,4.7,18,1h 29m
+1078. American Terror Tales 3,Horror,2.4,61,58m
+1079. Blackest Darkness,Horror,5.5,75,1h 16m
+1080. Re:Human,Horror,5.7,39,1h 48m
+1081. La cárcel Maldita,Horror,4.7,6,1h 27m
+1082. Danyang Mahar Tukar Nyawa,Horror,5.9,10,1h 50m
+1083. Green Spaces,Horror,N/A,N/A,48m
+1084. Akh,Horror,5.3,117,2h 17m
+1085. Busted Babies,Horror,7.7,14,1h 27m
+1086. The House of Ghosts,Horror,3.9,44,N/A
+1087. The Geechee Witch: A Boo Hag Story,Horror,7.2,15,1h 28m
+1088. The Grieving,Horror,N/A,N/A,1h 35m
+1089. The Seven Darks,Horror,4.2,125,1h 3m
+1090. Bored Games,Horror,3.5,122,1h 16m
+1091. Khatarnaak Manzil,Horror,N/A,N/A,N/A
+1092. Asher and Ruth,Horror,N/A,N/A,1h 3m
+1093. Static: An Anthology,Horror,N/A,N/A,1h 20m
+1094. Rust 3,Horror,4.2,48,N/A
+1095. La Chancla Del Diablo,Horror,4.4,14,1h 30m
+1096. Clawface,Horror,8.6,14,1h 38m
+1097. Mad Cow Massacre,Horror,N/A,N/A,1h 21m
+1098. 31 Kills of Halloween,Horror,2.9,9,N/A
+1099. Hillock Haunting,Horror,3.4,245,1h 23m
+1100. Time of the Witch,Horror,6.6,15,1h 31m
+1101. Synthwave Horror: Night of the Living Dead,Horror,N/A,N/A,N/A
+1102. Hide and Seek,Horror,4.7,6,1h 38m
+1103. Ritual,Horror,N/A,N/A,1h 10m
+1104. Tóxico,Horror,6.7,18,1h 28m
+1105. Choke,Horror,7.5,22,1h 38m
+1106. The Stickman's Hollow,Horror,8.7,8,N/A
+1107. Do You See Me?,Horror,3.9,8,1h 28m
+1108. Mihrez 3: Cin Bebek,Horror,2.8,17,1h 18m
+1109. Just Another Horror Movie,Horror,5.9,10,31m
+1110. Bad Ben 13: The Dracula Situation,Horror,3.5,12,1h 39m
+1111. Trillberry Murders,Horror,5.6,14,1h 54m
+1112. Sapien,Horror,2.4,79,1h 44m
+1113. A New Dawn,Horror,N/A,N/A,1h
+1114. Scream: The Fan Favorite,Horror,8.1,19,49m
+1115. Last Shark,Horror,N/A,N/A,1h 10m
+1116. Death After Dusk,Horror,5.6,97,2h 20m
+1117. Restitution,Horror,4.1,34,N/A
+1118. King,Horror,N/A,N/A,8m
+1119. Bernadette will töten,Horror,8.4,23,1h 33m
+1120. From Within,Horror,N/A,N/A,N/A
+1121. The Nexus,Horror,6.4,26,N/A
+1122. The Last Stand,Horror,N/A,N/A,N/A
+1123. The Suffering of Monique,Horror,N/A,N/A,1h 19m
+1124. The Bitter Taste,Horror,7.1,43,2h 5m
+1125. Soul Traveler (The Feature),Horror,4.2,24,1h 36m
+1126. Zah-Har Cin Ahalisi,Horror,3.8,9,N/A
+1127. Nightmare in Argus,Horror,3.6,9,N/A
+1128. Prove Your Love,Horror,8.3,575,N/A
+1129. In the Woods,Horror,N/A,N/A,1h 23m
+1130. The Emasculator,Horror,N/A,N/A,1h 16m
+1131. Ghosted,Horror,N/A,N/A,50m
+1132. Finally Home,Horror,N/A,N/A,1h 3m
+1133. Misty,Horror,N/A,N/A,30m
+1134. Dunwich Journals,Horror,N/A,N/A,1h 30m
+1135. Tiny House,Horror,N/A,N/A,N/A
+1136. Slasher Days of Summer,Horror,N/A,N/A,N/A
+1137. Demon: Azab-ül Kem,Horror,5.8,52,N/A
+1138. Mercy Brown,Horror,N/A,N/A,1h
+1139. Pulp Modern: Die Laughing,Horror,8.2,97,1h 23m
+1140. Biswas Villa-An Unfinished Story,Horror,8.6,21,54m
+1141. La Maldición de Knoche,Horror,N/A,N/A,N/A
+1142. Zir-i Cin 3: Cin Dügümü,Horror,3.9,22,1h 26m
+1143. Live Different,Horror,2.7,10,48m
+1144. Bed of Nails,Horror,4.8,30,1h 44m
+1145. Slasher House 3,Horror,4.5,71,N/A
+1146. Advent,Horror,4.3,33,1h 17m
+1147. Observados,Horror,N/A,N/A,N/A
+1148. Erbsünde - Veil of Sin,Horror,N/A,N/A,1h 18m
+1149. Porcelain,Horror,3.8,118,1h 28m
+1150. Symphony of Suffering,Horror,5.8,6,1h 3m
+1151. Night Demon,Horror,N/A,N/A,1h
+1152. 10/31 Part 4,Horror,5.5,19,1h 27m
+1153. Once Upon a Time in Amityville,Horror,3.7,57,1h 13m
+1154. Kukushka,Horror,4.3,33,1h 33m
+1155. Dead Body,Horror,3.7,41,2h 15m
+1156. All of it Ends,Horror,N/A,N/A,N/A
+1157. The House on Mansfield Street II: Evil Next Door,Horror,5.0,100,1h 20m
+1158. Blodsuger,Horror,6.7,9,1h 34m
+1159. Boo Main Dargi,Horror,6.2,23,N/A
+1160. Domovoy,Horror,4.3,301,1h 42m
+1161. Early Morning Calm,Horror,8.7,22,N/A
+1162. Big/Bad/Wolf,Horror,3.9,11,N/A
+1163. Mesken (Messuage),Horror,7.3,47,1h 39m
+"1164. Rapunzel, El Perro y El Brujo",Horror,7.6,22,1h 49m
+1165. Padikkadha Pakkangal,Horror,4.3,167,1h 46m
+1166. Grayson's Encounter,Horror,7.3,22,1h 10m
+1167. Tin Roof,Horror,N/A,N/A,N/A
+1168. Malediction,Horror,N/A,N/A,N/A
+1169. A Very Flattened Christmas,Horror,6.1,37,1h 35m
+1170. Embryonic,Horror,N/A,N/A,1h 15m
+1171. Levizia,Horror,N/A,N/A,N/A
+1172. Flammentod,Horror,N/A,N/A,1h
+1173. Midnight Harvest,Horror,N/A,N/A,1h 10m
+1174. The Haunting of Lanquetot,Horror,3.7,10,1h 36m
+1175. Rise of the Crimson Butcher,Horror,5.1,56,N/A
+1176. Quiet,Horror,5.0,8,1h 11m
+1177. Everything Decays,Horror,N/A,N/A,1h 4m
+1178. Anak Perjanjian Syaitan 2,Horror,6.4,34,1h 29m
+1179. Changle zhen gui shi,Horror,N/A,N/A,1h 28m
+1180. Bananahead,Horror,N/A,N/A,24m
+1181. New Year's Absolution,Horror,N/A,N/A,N/A
+1182. Adze the African Vampire,Horror,3.4,61,1h 21m
+1183. Sadako: Pendant of Mourning,Horror,N/A,N/A,53m
+1184. Ibu,Horror,N/A,N/A,1h 20m
+1185. Obsession in Flesh,Horror,N/A,N/A,N/A
+1186. Immortal Thieves: The Bloody Heist,Horror,6.9,37,N/A
+1187. Amir,Horror,5.4,20,1h 10m
+1188. Compression,Horror,8.0,15,2h 4m
+1189. Shi Ren Yu,Horror,2.5,9,1h 11m
+1190. The Ghoul Haunting,Horror,N/A,N/A,N/A
+1191. La sombra del tiburón,Horror,6.2,17,1h 29m
+1192. First Person Savior,Horror,4.9,12,1h 21m
+1193. The Night Devours,Horror,N/A,N/A,N/A
+1194. Fierce Killer Marsupial,Horror,2.3,50,1h 26m
+1195. Dead-End,Horror,8.2,6,46m
+1196. Dank Frank,Horror,N/A,N/A,1h 23m
+1197. Midnight Perturbation,Horror,8.6,12,1h 21m
+1198. Clownface 3,Horror,8.2,58,1h 44m
+1199. Iron Nest of the Moon,Horror,7.6,13,1h 10m
+1200. Dominus,Horror,N/A,N/A,1h 24m
+1201. The Beast Hand,Horror,4.5,14,1h 17m
+1202. Zombie Anonymous,Horror,8.0,8,N/A
+1203. The Clot,Horror,2.8,28,1h 19m
+1204. Cacophony the Animated Movie,Horror,N/A,N/A,1h 21m
+1205. Death,Horror,6.1,17,1h 17m
+1206. Devil's Punchbowl,Horror,4.2,27,N/A
+1207. Laberinto de sombras,Horror,6.1,9,1h 50m
+1208. Los visitados,Horror,6.5,6,N/A
+1209. The Prey,Horror,N/A,N/A,1h 19m
+1210. Mendebur,Horror,N/A,N/A,1h 33m
+1211. Ummeed,Horror,N/A,N/A,N/A
+1212. Lachrymose Primrose,Horror,6.3,41,1h 37m
+1213. Tales of the Forgotten,Horror,5.2,9,2h 50m
+1214. Touched by Eternity,Horror,5.3,106,1h 35m
+1215. Jama,Horror,6.0,18,1h 11m
+1216. Rambut Kafan,Horror,4.5,102,1h 38m
+1217. Kísértés az erdö mélyén,Horror,2.8,78,1h 18m
+1218. San Geng Ke Zhan,Horror,6.1,14,1h 28m
+1219. New Folder,Horror,4.7,27,1h 12m
+1220. Pacha,Horror,N/A,N/A,1h 30m
+1221. The Damnation,Horror,6.7,23,1h 22m
+1222. The Lonely Man with the Ghost Machine,Horror,3.0,161,1h 30m
+1223. Tan-Ti-Ana,Horror,6.0,26,1h 35m
+1224. Bunny Man Slaughter,Horror,6.3,24,N/A
+1225. Bisikan Setan,Horror,6.7,11,1h 28m
+1226. Blurred Lines,Horror,N/A,N/A,47m
+1227. Oro Negro,Horror,N/A,N/A,N/A
+1228. The Haunting of the Blain Mayor,Horror,N/A,N/A,2h
+1229. The Sacrifice,Horror,N/A,N/A,1h
+1230. 2nd Japan Horror Film Competition: Winning Works,Horror,N/A,N/A,1h 51m
+1231. Daemon Mind,Horror,4.7,34,1h 41m
+1232. Leatherbound,Horror,8.0,8,N/A
+1233. Shoroter Joba,Horror,4.4,24,2h 3m
+1234. The Swift,Horror,N/A,N/A,33m
+1235. Dating Horror Stories,Horror,3.6,11,N/A
+1236. The Thing,Horror,N/A,N/A,N/A
+1237. Escape the City,Horror,N/A,N/A,4h
+1238. Devil on Stalk,Horror,N/A,N/A,11m
+1239. Portraits,Horror,4.7,49,1h 22m
+1240. The E-Ghost,Horror,6.8,14,1h 50m
+1241. Büyücü,Horror,N/A,N/A,N/A
+1242. Dead Boys Club,Horror,6.3,26,1h 45m
+1243. The Tooth Fairy and Other Twisted Tales,Horror,N/A,N/A,1h 24m
+1244. Reefer Monster Madness,Horror,N/A,N/A,N/A
+1245. The Last Five Days: The Freak Building,Horror,3.7,60,1h 1m
+1246. Cursed Waters: Creature of Lake Okanagan,Horror,6.8,7,N/A
+1247. The Devil's Wasteland,Horror,N/A,N/A,1h 36m
+1248. The Resurrection of Amy Barlow,Horror,N/A,N/A,N/A
+1249. Lesbian Vampires from Outer Space,Horror,N/A,N/A,48m
+1250. Disremembered,Horror,4.9,144,1h 44m
+1251. The Intruder: The Movie (Chapter 1),Horror,N/A,N/A,24m
+"1252. The Call of Cthulhu, Pt. 3 - Madness from the Sea",Horror,N/A,N/A,N/A
+1253. Doll,Horror,N/A,N/A,N/A
+1254. Dream of Deceit,Horror,N/A,N/A,N/A
+1255. The WeedHacker Massacre,Horror,N/A,N/A,N/A
+1256. Treasures of Terror: Vol 2,Horror,3.8,13,N/A
+1257. Bloodspawn,Horror,6.6,14,1h 16m
+1258. The Mortician,Horror,N/A,N/A,N/A
+1259. On Gallows Hill,Horror,N/A,N/A,N/A
+1260. Baridegi: The abandoned Girl,Horror,3.4,18,1h 47m
+"1261. Rotten, Welcome to the Freak Show",Horror,N/A,N/A,1h 20m
+1262. My Cannibal Crush,Horror,6.3,12,50m
+1263. Scary Tales: Dark Walker,Horror,3.3,54,N/A
+1264. Once Passed On,Horror,6.6,7,1h 31m
+1265. The Killer Goldfish,Horror,6.0,6,1h 34m
+1266. Diary of A Necro Piggy,Horror,N/A,N/A,1h 30m
+1267. The Torture: Beranak dalam Kubur,Horror,N/A,N/A,1h 31m
+1268. Evil in Me,Horror,4.0,6,1h 15m
+1269. Gunfighter Paradise,Horror,8.8,18,N/A
+1270. Bridge,Horror,3.7,13,1h 18m
+1271. The Blade Cuts Deeper,Horror,N/A,N/A,N/A
+1272. K. The Butcher Shitter,Horror,3.5,25,1h 10m
+1273. Tent Burner,Horror,N/A,N/A,54m
+1274. Florence,Horror,N/A,N/A,1h 19m
+1275. Web,Horror,N/A,N/A,1h 11m
+1276. Darkness Hunting,Horror,4.9,9,1h 12m
+1277. Fara suflet,Horror,6.5,9,1h 35m
+1278. Hannas 2,Horror,3.0,47,1h 19m
+1279. Tennessee Bigfoot,Horror,N/A,N/A,1h 5m
+1280. Recalculating,Horror,N/A,N/A,1h 30m
+1281. B Lines,Horror,6.8,15,N/A
+1282. The Director's Cut,Horror,4.2,16,1h 22m
+1283. The Dark Possesion Sinister Act,Horror,N/A,N/A,N/A
+1284. Problematic Intentions,Horror,4.6,15,1h 30m
+1285. Death Streamer: Noir Version,Horror,N/A,N/A,1h 12m
+1286. Masacre en el Delta,Horror,N/A,N/A,N/A
+1287. Shining,Horror,N/A,N/A,N/A
+1288. Ravenwood,Horror,N/A,N/A,N/A
+1289. Condemned,Horror,8.9,12,1h 12m
+1290. Unwelcome Home,Horror,8.0,9,1h 15m
+1291. Bantay-bahay,Horror,5.5,17,1h 26m
+1292. Idiot Girls and School Ghost 2: Teaching Practice,Horror,N/A,N/A,1h 25m
+1293. The Message,Horror,N/A,N/A,54m
+1294. The Exorcism of Margot Miles,Horror,N/A,N/A,N/A
+1295. Archai,Horror,N/A,N/A,1h 27m
+1296. Santa Crawls,Horror,N/A,N/A,N/A
+1297. Decibel,Horror,5.2,9,N/A
+1298. Horror Able,Horror,6.5,24,1h 18m
+1299. Abnormal: Buas,Horror,5.7,29,1h 30m
+1300. Gen 2,Horror,3.4,14,N/A
+1301. The Whisper Within the Woods,Horror,7.7,27,N/A
+1302. On the Trail of Bigfoot: The Ancients,Horror,6.2,7,2h 20m
+1303. Napoleon Street,Horror,N/A,N/A,1h 50m
+1304. Conexão com o Mal,Horror,8.3,32,2h 13m
+1305. The Faceless Man Project,Horror,N/A,N/A,1h 29m
+1306. The Wildman Massacre,Horror,8.6,37,1h 30m
+1307. Spending Some Time Together,Horror,6.9,30,2h 26m
+1308. Un día cualquiera,Horror,5.7,15,1h 30m
+1309. The Hoard,Horror,N/A,N/A,N/A
+1310. Forbidden Tapes - Anthology of Terror,Horror,5.4,8,1h 1m
+1311. Bloedhond,Horror,N/A,N/A,1h 32m
+1312. Soul Harvest,Horror,N/A,N/A,N/A
+1313. Adrian,Horror,N/A,N/A,N/A
+1314. Nijari,Horror,N/A,N/A,1h 46m
+1315. The Dead of Night,Horror,N/A,N/A,N/A
+1316. Landlord,Horror,N/A,N/A,N/A
+1317. EP/2,Horror,N/A,N/A,1h 8m
+1318. Echoes in the Dark,Horror,N/A,N/A,1h 47m
+1319. El Juego 2: La Maldición del Bosque,Horror,6.0,35,1h 37m
+1320. Kanbalhi,Horror,9.0,6,1h 55m
+1321. Sobe: Sakalli Bebek,Horror,5.0,17,1h 26m
+1322. Three Dead Cowboys,Horror,N/A,N/A,N/A
+1323. Stickman,Horror,N/A,N/A,1h 54m
+1324. Hantu Polong,Horror,7.4,46,1h 30m
+1325. #Models Wanted,Horror,8.5,33,N/A
+1326. Tapeface,Horror,N/A,N/A,46m
+1327. The Dog from a Graveyard,Horror,N/A,N/A,1h 33m
+1328. The Dark Beam,Horror,N/A,N/A,1h 30m
+1329. Abductee,Horror,N/A,N/A,1h 59m
+1330. Mystery Writers,Horror,5.2,74,1h 30m
+1331. The Lonely Ones,Horror,N/A,N/A,N/A
+1332. The Dark Eye,Horror,N/A,N/A,1h 59m
+1333. Jealousy,Horror,N/A,N/A,1h 26m
+1334. Erracheera,Horror,N/A,N/A,N/A
+1335. O Procedimento,Horror,8.2,52,12m
+1336. The Dark Mother Special+20mn,Horror,7.6,21,2h
+1337. The Elite of Devils,Horror,3.6,44,1h 48m
+"1338. Fear, Forget My Name",Horror,N/A,N/A,N/A
+1339. Flora,Horror,N/A,N/A,15m
+1340. Bet on Black,Horror,N/A,N/A,N/A
+1341. Winemaker,Horror,5.4,39,59m
+1342. Horror-Scopes: Volume Two,Horror,8.1,20,1h 28m
+1343. MAKKA: Cinn-i Azap,Horror,4.3,13,1h 15m
+1344. Horror Unmasked,Horror,3.3,23,N/A
+1345. Suhaila Bint Duaim,Horror,N/A,N/A,2h 36m
+1346. Mystery Creek,Horror,N/A,N/A,1h 54m
+1347. He's Watching You,Horror,N/A,N/A,N/A
+1348. Mashaarojinn,Horror,9.0,20,1h 39m
+1349. The Bell: Panggilan Untuk Mati,Horror,N/A,N/A,N/A
+1350. Incubus the evocation,Horror,N/A,N/A,N/A
+"1351. Agnes, Beauty is a Painted Hell",Horror,N/A,N/A,14m
+1352. Killer Reel,Horror,5.2,10,1h 13m
+1353. Demon Stalker,Horror,2.2,7,1h 37m
+1354. Zombie Chronicles: Regeneration,Horror,N/A,N/A,N/A
+1355. Rebel,Horror,N/A,N/A,1h 29m
+1356. Inziva,Horror,N/A,N/A,1h 34m
+1357. New Tokyo Poltergeist,Horror,5.1,11,1h 28m
+1358. Cose nere,Horror,N/A,N/A,1h 23m
+1359. Don't Open the Book,Horror,N/A,N/A,N/A
+1360. The Last American Possession,Horror,N/A,N/A,1h 10m
+1361. The Vent,Horror,8.9,15,3m
+1362. Tobias: Dark Hallway,Horror,7.0,10,N/A
+1363. Keo=peul-ji-ok,Horror,5.6,8,1h 34m
+1364. A Hot Mess,Horror,N/A,N/A,N/A
+1365. The Watchers Roblox movie,Horror,N/A,N/A,35m
+1366. Ifritin Mührü,Horror,N/A,N/A,N/A
+1367. Prologue: Thalassophilia - A Cryptograph in Three Acts,Horror,N/A,N/A,15m
+1368. Suprema,Horror,N/A,N/A,1h 38m
+1369. Balaayen,Horror,N/A,N/A,N/A
+1370. Der Dritte Gast,Horror,3.3,43,1h 13m
+1371. The Last Grail Hunter,Horror,7.7,7,N/A
+1372. Seytan1,Horror,5.5,7,N/A
+1373. Maldoror,Horror,N/A,N/A,N/A
+1374. Cursed,Horror,N/A,N/A,N/A
+1375. Arbor Day,Horror,N/A,N/A,1h 5m
+1376. Gadi,Horror,N/A,N/A,1h 17m
+1377. Alaikyaa,Horror,N/A,N/A,N/A
+1378. No Lo Escuches,Horror,N/A,N/A,N/A
+1379. The Haunting of Michael Barrow,Horror,N/A,N/A,1h 26m
+1380. Bo Alajen,Horror,N/A,N/A,N/A
+1381. Abduction Chronicles,Horror,8.5,38,2h 6m
+1382. Harruk,Horror,4.5,22,1h 10m
+1383. BloodWood,Horror,N/A,N/A,1h 29m
+1384. Slender: Demoniac,Horror,N/A,N/A,N/A
+1385. This Is Not A Lost Film by Khavn,Horror,N/A,N/A,1h
+1386. Dead Men,Horror,N/A,N/A,11m
+1387. Dogman Territory: Werewolves in the Land Between the Lakes,Horror,5.6,37,N/A
+1388. Springsville,Horror,4.2,26,N/A
+1389. Bannkorb,Horror,7.4,6,19m
+1390. Ahbar,Horror,3.0,15,1h 20m
+1391. As Close to Me As Always,Horror,N/A,N/A,1h 37m
+1392. There's Something About Knuckles Saga,Horror,N/A,N/A,46m
+1393. The Evil Within,Horror,N/A,N/A,N/A
+1394. Welcome to Kittytown,Horror,7.7,8,1h 28m
+1395. GOREphers: Final Gnaw,Horror,N/A,N/A,1h 2m
+1396. Demons vs. Ghosts,Horror,7.6,8,1h 32m
+1397. No One's Laughing,Horror,N/A,N/A,42m
+1398. Cin Hapishanesi,Horror,N/A,N/A,1h 15m
+1399. I am the girl 3 me and my girlfriend,Horror,N/A,N/A,N/A
+1400. A Party for Karl Marx,Horror,N/A,N/A,1h 14m
+1401. After the First Five Nights,Horror,N/A,N/A,37m
+1402. Time Traveler's,Horror,N/A,N/A,N/A
+1403. Night of the Red Moon,Horror,N/A,N/A,N/A
+1404. I Curse This Land,Horror,4.0,94,1h 26m
+1405. The Massacre,Horror,N/A,N/A,N/A
+1406. Love Like Fear,Horror,N/A,N/A,1h 30m
+1407. Atesten Dogan,Horror,N/A,N/A,1h 18m
+1408. Belldoor,Horror,N/A,N/A,N/A
+1409. Krampus (MM),Horror,N/A,N/A,N/A
+1410. Day of the Wicked,Horror,N/A,N/A,1h 37m
+1411. Snake Resort,Horror,N/A,N/A,N/A
+1412. Red Light District Shark Attack,Horror,3.2,51,N/A
+1413. Induced 2,Horror,N/A,N/A,N/A
+1414. Verified,Horror,5.1,9,1h 37m
+1415. Noclip,Horror,3.7,44,1h 1m
+1416. Strangers,Horror,6.6,10,1h 39m
+1417. Kurban: Budak Iblis,Horror,4.3,15,1h 27m
+1418. The Fear of Phasmophobia: House of the Paranormal,Horror,N/A,N/A,13m
+1419. The Tormented,Horror,5.0,18,1h 25m
+1420. A Coffin of Stars,Horror,5.2,6,1h 40m
+1421. Death Perception,Horror,N/A,N/A,1h 46m
+1422. Sister Psycho,Horror,N/A,N/A,1h 11m
+1423. Ictus: Paciente Cero,Horror,N/A,N/A,N/A
+1424. A Witch Lives in the Attic,Horror,N/A,N/A,1h 28m
+1425. Morgan's Bedroom,Horror,N/A,N/A,1h 21m
+1426. Bungalow Section 12,Horror,2.4,64,1h 28m
+1427. Neighborhood,Horror,5.8,5,1h 24m
+1428. Residency,Horror,N/A,N/A,54m
+1429. Bijt,Horror,5.8,55,1h 45m
+1430. The Hellper,Horror,6.2,25,1h 30m
+1431. Cheongsam Merah Darah,Horror,5.7,11,1h 30m
+1432. Moon Ghost Returns,Horror,6.0,29,N/A
+1433. Basileia,Horror,4.2,59,1h 36m
+1434. Haunted New Orleans,Horror,N/A,N/A,N/A
+1435. Into the Dead of Night,Horror,N/A,N/A,1h 3m
+1436. The Freaks of Fancy,Horror,N/A,N/A,1h 38m
+1437. Cryptic Triptych,Horror,7.6,9,N/A
+1438. Gone: The Movie,Horror,N/A,N/A,13m
+1439. Squelch,Horror,N/A,N/A,1h 32m
+1440. The Hay Man,Horror,N/A,N/A,1h 14m
+1441. Rose's Last Session,Horror,5.2,28,N/A
+1442. Les Écorchés - Partie 1,Horror,N/A,N/A,1h 50m
+1443. Bitches Giving Stitches,Horror,N/A,N/A,1h 20m
+1444. Blue Caveman,Horror,N/A,N/A,N/A
+1445. Shuigui Bride,Horror,N/A,N/A,1h 19m
+1446. The Beast That Ate Waverly,Horror,N/A,N/A,1h 24m
+1447. Horrorathon Volume 3,Horror,5.1,15,1h 33m
+1448. You Feel Like You're Being Watched,Horror,N/A,N/A,43m
+1449. Stalker Jane,Horror,N/A,N/A,N/A
+1450. Malam Keramat,Horror,6.0,33,1h 30m
+1451. Dead Talk Tales: Volume I,Horror,6.6,28,1h 38m
+1452. Urban Nightmares: A Found Footage Anthology,Horror,4.7,46,N/A
+1453. Obscura,Horror,6.3,9,1h 29m
+1454. Mariara,Horror,5.9,11,N/A
+1455. The Book (El Libro),Horror,5.9,9,N/A
+1456. Corpórea,Horror,5.9,8,N/A
+1457. Road Kill,Horror,N/A,N/A,1h 20m
+1458. The Evangelist,Horror,N/A,N/A,N/A
+1459. Grimmwood,Horror,8.1,17,N/A
+1460. Family Comes First,Horror,8.0,8,1h 5m
+1461. Yuanyang Lou,Horror,4.0,24,N/A
+1462. Kara Cin Laneti,Horror,3.9,19,N/A
+1463. Muhnochwa,Horror,N/A,N/A,N/A
+1464. Tragic,Horror,8.9,20,1h 36m
+1465. Neath's Love Story 3,Horror,6.2,13,1h 40m
+1466. The Tattoo,Horror,N/A,N/A,1h 30m
+1467. The Get Out,Horror,N/A,N/A,N/A
+1468. Andrey Iskanov's Breaking Uroboros,Horror,7.2,31,N/A
+1469. The Burned Hand,Horror,8.0,12,1h 25m
+1470. Katala - Oyun Gecesi,Horror,4.5,11,N/A
+1471. Gizlenen,Horror,3.6,8,N/A
+1472. Toys R Us (Fanmade FIim),Horror,N/A,N/A,2h
+1473. Monster Girls,Horror,N/A,N/A,N/A
+1474. Krapiva: Tsvetok smerti,Horror,6.1,59,1h 21m
+1475. Tienes 24 horas,Horror,7.4,7,1h 1m
+1476. Where the Mountain Women Sing,Horror,5.9,9,15m
+1477. The Doll Under the Stairs,Horror,3.0,21,N/A
+1478. Jyukinshi,Horror,3.0,11,1h 43m
+1479. Llorona Origin,Horror,N/A,N/A,N/A
+1480. Golgota - Flor de Carne,Horror,N/A,N/A,1h 18m
+1481. Queen Dracula Sucks Again,Horror,N/A,N/A,N/A
+1482. The Lights,Horror,N/A,N/A,1h 31m
+1483. Good Boy,Horror,N/A,N/A,13m
+1484. Alter-Ego Film Project,Horror,N/A,N/A,N/A
+1485. White Muscle Daddy,Horror,N/A,N/A,2h 15m
+1486. Shadows,Horror,6.8,21,1h 15m
+1487. Vebal,Horror,5.0,13,N/A
+1488. Ghostly Secrets of Hotel San Carlos,Horror,N/A,N/A,1h 23m
+1489. Drops from Hell,Horror,N/A,N/A,N/A
+1490. A.R.C.A,Horror,N/A,N/A,52m
+1491. The Beast of No-Mans Land,Horror,N/A,N/A,1h 30m
+1492. Athma,Horror,N/A,N/A,N/A
+1493. The Greeter,Horror,N/A,N/A,N/A
+1494. The Mollusk Murders,Horror,N/A,N/A,46m
+1495. Cast Party,Horror,N/A,N/A,N/A
+1496. Penumbra: Requiem,Horror,N/A,N/A,1h 31m
+1497. The Scarlet Fry Collection,Horror,N/A,N/A,N/A
+1498. 3 Strikes You're Dead,Horror,N/A,N/A,N/A
+1499. Adipocere,Horror,N/A,N/A,N/A
+1500. Here and Now,Horror,N/A,N/A,1h 25m
+1501. A Taste for Flesh,Horror,N/A,N/A,1h 30m
+1502. Heirredrum,Horror,N/A,N/A,N/A
+1503. The Crude Crypt Vol 3,Horror,N/A,N/A,1h 15m
+1504. Átropos,Horror,5.5,24,1h 33m
+1505. Stab 4: Knife of Doom,Horror,5.4,15,1h 38m
+1506. Inside a spider,Horror,5.7,11,N/A
+1507. Janus,Horror,4.9,11,1h 12m
+1508. Your Curse,Horror,2.6,19,N/A
+1509. Shanidar,Horror,N/A,N/A,N/A
+1510. No Budget Theater Double Feature,Horror,N/A,N/A,1h 37m
+1511. Only Mom,Horror,N/A,N/A,1h 22m
+1512. The Boy Inside the Cocoon,Horror,N/A,N/A,2h 6m
+1513. Slasher Fetish,Horror,N/A,N/A,N/A
+1514. Shit Happens and Miracles Too,Horror,N/A,N/A,N/A
+1515. Psychomorphosis,Horror,N/A,N/A,56m
+1516. I'm Seeing Things,Horror,N/A,N/A,54m
+1517. Zero Sum Game,Horror,N/A,N/A,N/A
+1518. Ilijah,Horror,N/A,N/A,1h 42m
+1519. Korban Jatuh Tempo,Horror,N/A,N/A,N/A
+1520. Dreams of the Dead,Horror,N/A,N/A,1h 22m
+1521. The Listening,Horror,N/A,N/A,N/A
+1522. Cross Roads,Horror,N/A,N/A,N/A
+1523. Prima del giorno dopo,Horror,7.8,75,1h 45m
+1524. Am Fear Liath,Horror,5.3,43,N/A
+1525. La Hacienda - El Regreso de los Malditos,Horror,7.6,15,1h 10m
+1526. Gentleman Caller,Horror,8.5,9,1h 43m
+1527. Killer Hand Dryer,Horror,7.8,10,1h 58m
+1528. Slenderverse: Building the Slenderman,Horror,7.4,9,1h 55m
+1529. Cieco sordo muto,Horror,7.1,9,1h 25m
+1530. Don't Open the Box,Horror,7.0,9,45m
+1531. Dark Motel,Horror,N/A,N/A,1h 20m
+1532. The Statement,Horror,N/A,N/A,N/A
+1533. Blood Fight,Horror,N/A,N/A,1h 19m
+1534. Are Vampires Real,Horror,N/A,N/A,45m
+1535. High Strangeness,Horror,N/A,N/A,N/A
+1536. Blood Demons,Horror,N/A,N/A,2h 14m
+1537. Hell 2: Soil,Horror,N/A,N/A,50m
+1538. The Follower,Horror,N/A,N/A,1h 30m
+1539. The Mini Lights,Horror,N/A,N/A,1h 20m
+"1540. Love, Blood, & Aztec Demons: The Lost Films of Juan F. Moctezuma II",Horror,N/A,N/A,1h 34m
+1541. The Days Left,Horror,N/A,N/A,47m
+1542. Shadow Reaper,Horror,N/A,N/A,1h 11m
+1543. La Llorona Evil Awakens,Horror,N/A,N/A,N/A
+1544. 3. Gece Habis,Horror,6.1,20,N/A
+1545. Velhan,Horror,6.4,18,1h 17m
+1546. Requiem: Three Tales of Horror,Horror,3.6,39,55m
+1547. The Haunting in Rosemary Lane,Horror,3.5,29,59m
+1548. Konodoga wa Saisei Dekimasen: The Movie,Horror,6.0,6,N/A
+1549. Rahha,Horror,2.7,13,2h 15m
+1550. The Ritual Soul,Horror,N/A,N/A,1h 18m
+"1551. The Actor, the Nurse, & The Cryptid",Horror,N/A,N/A,2h 11m
+1552. Ifrit,Horror,N/A,N/A,1h 14m
+1553. Vefk-i Cin Sekar,Horror,N/A,N/A,1h 24m
+1554. A Lenda dos Quatro,Horror,N/A,N/A,N/A
+1555. The Red Herring,Horror,N/A,N/A,53m
+1556. Resolver,Horror,N/A,N/A,N/A
+1557. Maximum Strollerdrive,Horror,N/A,N/A,N/A
+1558. Dashboard Dogs,Horror,N/A,N/A,1h 30m
+1559. The Witch Doll of Aliester Croweley,Horror,N/A,N/A,16m
+1560. The Dream Ledger,Horror,N/A,N/A,N/A
+1561. Phantom Lights: UAPs of the Forest,Horror,N/A,N/A,1h 21m
+1562. Down for the Count,Horror,N/A,N/A,50m
+1563. Believe Me or Not,Horror,N/A,N/A,1h 30m
+1564. Hide Me Within Your Wounds,Horror,N/A,N/A,N/A
+1565. Midnight at the Limbo Lounge,Horror,N/A,N/A,N/A
+"1566. ...Mayombe, Paula?",Horror,N/A,N/A,N/A
+1567. Abaasylaakh Khaus,Horror,7.2,7,1h 10m
+1568. Slenderverse: An Artistic Movement,Horror,6.6,7,1h 45m
+1569. Stalked by Shadows,Horror,3.3,11,1h
+1570. Peccatum,Horror,1.9,24,1h 8m
+"1571. Destination: Hollywood, California",Horror,N/A,N/A,N/A
+1572. Bhootarth,Horror,N/A,N/A,N/A
+1573. City of Oz,Horror,N/A,N/A,53m
+1574. Rainbows Over Plantation,Horror,N/A,N/A,1h 20m
+1575. Le tueur du premier mai,Horror,N/A,N/A,1h 7m
+1576. Feed the Story Box,Horror,N/A,N/A,N/A
+1577. Sister II,Horror,N/A,N/A,1h 29m
+1578. Anna,Horror,N/A,N/A,1h 15m
+1579. Unvexed,Horror,N/A,N/A,N/A
+1580. Udhabaani 2,Horror,N/A,N/A,2h 30m
+1581. Tethered to the Ether,Horror,N/A,N/A,N/A
+1582. Pemburu Saka,Horror,N/A,N/A,1h 29m
+1583. Rent4Ghost,Horror,N/A,N/A,1h 30m
+1584. London After Midnight,Horror,N/A,N/A,1h 4m
+1585. Memories You Killed,Horror,8.2,14,N/A
+1586. Protanopia,Horror,7.0,14,1h 15m
+1587. Ciudad Oculta,Horror,3.7,16,1h 36m
+1588. The Forest,Horror,N/A,N/A,1h 47m
+1589. Nellie's Bathroom Window Movie,Horror,N/A,N/A,N/A
+1590. Ateet Ek Prem Kahani,Horror,N/A,N/A,N/A
+1591. The Fetch of Hobbler's Trench,Horror,N/A,N/A,1h 31m
+1592. Tears for life,Horror,N/A,N/A,N/A
+1593. Star crossed,Horror,N/A,N/A,N/A
+1594. Your Loving Mother,Horror,N/A,N/A,1h 54m
+1595. Humanzee,Horror,N/A,N/A,N/A
+1596. Gla,Horror,N/A,N/A,N/A
+1597. Into Pitch Black,Horror,N/A,N/A,N/A
+1598. Fatal Exposure,Horror,N/A,N/A,18m
+1599. Drive Recorder Spirit,Horror,N/A,N/A,51m
+1600. Cin Günü,Horror,N/A,N/A,1h 20m
+"1601. La Protegida: Mateo, el origen",Horror,N/A,N/A,N/A
+1602. Malvila Farm,Horror,N/A,N/A,N/A
+1603. Interview with an Exorcist,Horror,N/A,N/A,N/A
+1604. Night of the Howling,Horror,N/A,N/A,1h 10m
+1605. Victoria Kelly,Horror,N/A,N/A,N/A
+1606. Helen,Horror,N/A,N/A,N/A
+1607. Brandon Sigloch's the Riverside Slasher,Horror,N/A,N/A,57m
+1608. Manju Maria,Horror,N/A,N/A,2h 45m
+1609. A Melty Kiss Lost in the Abyss - Un Dolce Bacio Perduto nell'Abisso -,Horror,7.7,25,1h 31m
+1610. The Smell of Blood,Horror,2.3,19,1h 15m
+1611. Hançer,Horror,1.6,7,N/A
+1612. Petrified: A HHH Film,Horror,N/A,N/A,50m
+1613. JEIT,Horror,N/A,N/A,1h 10m
+1614. Darkness,Horror,N/A,N/A,12m
+1615. Sirna Dalane Pati,Horror,N/A,N/A,45m
+1616. The Pandemic Dilemma,Horror,N/A,N/A,2h 6m
+1617. NOSOFACH: Balada o vesmíre,Horror,N/A,N/A,N/A
+1618. Dear Mother Ghost,Horror,N/A,N/A,1h 15m
+1619. Ondu Pishachiya Kathe,Horror,N/A,N/A,N/A
+1620. Sounds Like A Great Project!,Horror,N/A,N/A,1h 15m
+1621. ANiMA,Horror,N/A,N/A,1h 28m
+1622. Corridor 13,Horror,N/A,N/A,1h 41m
+1623. Adopt me All hallows Eve II,Horror,N/A,N/A,35m
+1624. Creepy Man the Final Battle,Horror,N/A,N/A,N/A
+1625. Apostando con el diablo,Horror,N/A,N/A,1h 43m
+1626. Momentum,Horror,N/A,N/A,5m
+1627. Synthwave Horror: The Hands of Orlac,Horror,N/A,N/A,N/A
+1628. Nicole Russin-McFarland's the Masque of the Red Death,Horror,N/A,N/A,50m
+1629. Hellfire Hades II: 1980's Voodoo,Horror,N/A,N/A,2h 30m
+1630. As Mortes de Hera,Horror,N/A,N/A,1h 10m
+1631. Specter Predators,Horror,N/A,N/A,8m
+1632. The Pray,Horror,N/A,N/A,N/A
+1633. Sen Alma,Horror,N/A,N/A,1h 10m
+1634. Rakshasa Tantra,Horror,N/A,N/A,N/A
+1635. Kaalima,Horror,N/A,N/A,N/A
+1636. Scary Campfire Stories,Horror,N/A,N/A,50m
+1637. The Jinxed,Horror,N/A,N/A,2h 3m
+1638. Whispered Voices,Horror,N/A,N/A,1h 30m
+1639. Ölümcül Davet,Horror,N/A,N/A,N/A
+1640. Halloween the 31st: The Curse Continues...,Horror,N/A,N/A,N/A
+1641. House 107,Horror,N/A,N/A,N/A
+1642. Taped Up Familys,Horror,4.2,78,N/A
+1643. Inside My House,Horror,N/A,N/A,N/A
+1644. Skinfolk,Horror,N/A,N/A,N/A
+1645. Mister E,Horror,N/A,N/A,N/A
+1646. Gregório & as Patricinhas,Horror,N/A,N/A,N/A
+1647. The Haunted Granny,Horror,N/A,N/A,N/A
+1648. Dream,Horror,N/A,N/A,1h 21m
+1649. Nighthawk: Maison Margiela Artisanal,Horror,N/A,N/A,1h 14m
+1650. A Detox Horrific,Horror,N/A,N/A,1h 12m
+1651. Anagana O Rajkumarudu,Horror,N/A,N/A,N/A
+1652. Ihlathi Legazi,Horror,N/A,N/A,58m
+1653. Christmas Spirit,Horror,N/A,N/A,2h 30m
+1654. Ghost Bowl,Horror,N/A,N/A,1h 30m
+1655. Le discours des songes,Horror,N/A,N/A,1h 10m
+1656. I am the girl 4 my Student and my Agony,Horror,N/A,N/A,N/A
+1657. Hotel Houffer,Horror,N/A,N/A,1h 52m
+1658. Infrastrata,Horror,N/A,N/A,1h 5m
+1659. A Vanished Puppet,Horror,N/A,N/A,1h 25m
+1660. Cin Bebek: Kabus,Horror,N/A,N/A,1h 22m
+1661. The Man-Tis,Horror,N/A,N/A,1h
+1662. ZZZ: Zombie Zone Zero,Horror,N/A,N/A,1h 15m
+1663. The Rake,Horror,N/A,N/A,46m
+1664. Drone,Horror,N/A,N/A,1h 24m
+1665. El Centinela de las Ánimas,Horror,N/A,N/A,N/A
+1666. Satan Kingdom Babylon,Horror,N/A,N/A,1h 17m
+1667. Mr. Squids,Horror,N/A,N/A,1h 6m
+1668. OINK the Dark Pig,Horror,N/A,N/A,N/A
+1669. Movie at Afton,Horror,N/A,N/A,2h 18m
+1670. Mom's Coming,Horror,N/A,N/A,2h 2m
+1671. Mothershucker,Horror,N/A,N/A,1h 15m
+1672. Peeling Off,Horror,N/A,N/A,17m
+1673. Love Bites,Horror,N/A,N/A,1h
+1674. The Lustful Dead II,Horror,N/A,N/A,N/A
+1675. Mutation X,Horror,N/A,N/A,51m
+1676. Lucid Creek,Horror,N/A,N/A,1h 20m
+1677. Vessel,Horror,N/A,N/A,N/A
+1678. Stay Evil,Horror,N/A,N/A,1h 27m
+1679. Cin Cukuru,Horror,N/A,N/A,1h 10m
+1680. Painted Smile,Horror,N/A,N/A,N/A
+1681. Sidequest!,Horror,N/A,N/A,1h 20m
+1682. epic gost movie,Horror,N/A,N/A,1h 7m
+1683. Offline: O Filme,Horror,N/A,N/A,1h 9m
+1684. Yong Sari,Horror,N/A,N/A,1h 30m
+"1685. Il bambino, i due furfanti e la strega",Horror,N/A,N/A,1h 35m
+1686. El banquete,Horror,N/A,N/A,1h 18m
+1687. The Viper,Horror,N/A,N/A,1h 1m
+1688. Ruh Azabi,Horror,N/A,N/A,1h 30m
+1689. Toll House Horrors,Horror,N/A,N/A,N/A
+1690. Ghost Ahead,Horror,N/A,N/A,N/A
+1691. Troubled Chairs,Horror,7.8,14,N/A
+1692. Project Mutationem: The Second Collection,Horror,8.1,7,1h 43m
+1693. The Hounds of Darkness,Horror,4.8,9,N/A
+1694. Cin Daveti,Horror,3.2,7,N/A
+1695. Cintihar,Horror,2.6,10,1h 17m
+1696. Ucube: Son Efsun,Horror,2.7,9,N/A
+1697. Réfractions,Horror,N/A,N/A,1h 3m
+1698. The Secrets of a Drone,Horror,N/A,N/A,2h 8m
+1699. John,Horror,N/A,N/A,1h
+1700. Darr Awaaz,Horror,N/A,N/A,N/A
+1701. Daughters of the Naked goddess,Horror,N/A,N/A,N/A
+1702. Pierrot è un assassino,Horror,N/A,N/A,2h
+1703. Proyecto Fantasma,Horror,N/A,N/A,2h
+1704. Maranayudham,Horror,N/A,N/A,2h 21m
+1705. Twisted vision 2024,Horror,N/A,N/A,N/A
+1706. Messpsycho Evil,Horror,N/A,N/A,N/A
+1707. Leave This House,Horror,N/A,N/A,N/A
+1708. Black Vale: Wolfsbane,Horror,N/A,N/A,1h 28m
+1709. Isolation Zone 5,Horror,N/A,N/A,1h 28m
+1710. Five Nights at Freddy's: La Storia Di Giovyx 2 (Fan-Film),Horror,N/A,N/A,N/A
+1711. Twelve Shadows Film Anthology,Horror,N/A,N/A,N/A
+1712. Creepy Man Returns,Horror,N/A,N/A,N/A
+1713. Five Nights at TK's: The Curse of TK,Horror,N/A,N/A,1h
+1714. Frights and Fears Vol 2,Horror,N/A,N/A,N/A
+1715. Mir'at Iblisin Laneti,Horror,N/A,N/A,N/A
+1716. Dukhad patr,Horror,N/A,N/A,1h 9m
+1717. Lacerta,Horror,N/A,N/A,N/A
+1718. Fiebre Caribe,Horror,N/A,N/A,N/A
+1719. Bare,Horror,N/A,N/A,N/A
+1720. Mritojibi,Horror,N/A,N/A,50m
+1721. Terrors,Horror,N/A,N/A,1h 5m
+1722. Vamp Camp: Being a Melodrama in Three Parts,Horror,N/A,N/A,N/A
+1723. Five Nights at Freddy's: Shadow of Vanny,Horror,N/A,N/A,1h 21m
+1724. Fábrica do Medo - Edição Comemorativa,Horror,N/A,N/A,1h 13m
+1725. Strange Future,Horror,N/A,N/A,N/A
+1726. Keltainen joutsen,Horror,N/A,N/A,1h 25m
+1727. Baby Pillows,Horror,N/A,N/A,N/A
+1728. Tangled Tales: The Movie,Horror,N/A,N/A,N/A
+1729. Witch's Lair,Horror,N/A,N/A,8m
+1730. 4th Die-Mension,Horror,N/A,N/A,N/A
+1731. The Bloodsummer Diary,Horror,N/A,N/A,1h 45m
+1732. Laberintos del Subconsciente (Una Película de Arte y Ensayo),Horror,N/A,N/A,1h 12m
+1733. Witchcast,Horror,N/A,N/A,1h 8m
+1734. Ridin the Clown,Horror,N/A,N/A,1h 5m
+1735. Decayed Network,Horror,N/A,N/A,1h 48m
+1736. Dare to Stay,Horror,N/A,N/A,N/A
+1737. Creepy Uncle Frankie,Horror,N/A,N/A,N/A
+1738. La Cabane À Sang 2024,Horror,N/A,N/A,N/A
+1739. Doom Walker,Horror,N/A,N/A,1h 5m
+1740. A Noiva,Horror,N/A,N/A,1h 13m
+1741. Jungwa,Horror,N/A,N/A,1h 21m
+1742. Feng Shui,Horror,N/A,N/A,N/A
+1743. Inti No. 13,Horror,N/A,N/A,2h 7m
+1744. EverMoreOutThere,Horror,N/A,N/A,N/A
+1745. Beneath the Floorboard,Horror,N/A,N/A,6m
+1746. Sunday Scaries,Horror,N/A,N/A,N/A
+1747. Here Lies Daniel,Horror,N/A,N/A,11m
+1748. The Witch of Hamsann,Horror,N/A,N/A,N/A
+1749. The killer duck,Horror,N/A,N/A,47m
+1750. Sinister clown till death do us apart chapter 2,Horror,N/A,N/A,N/A
+1751. Written,Horror,N/A,N/A,45m
+1752. The Night Ground,Horror,N/A,N/A,6m
+1753. Halloween: The Evil of Michael Myers,Horror,N/A,N/A,N/A
+1754. Silent Hill Stories,Horror,N/A,N/A,N/A
+1755. The Roost,Horror,N/A,N/A,57m
+1756. Winter Grae,Horror,N/A,N/A,1h 40m
+1757. Frica De Noapte,Horror,N/A,N/A,N/A
+1758. Case 19: Vichchhiya,Horror,N/A,N/A,51m
+1759. La Llorona A devils chapter begins,Horror,N/A,N/A,N/A
+1760. The Doomsday Virus,Horror,N/A,N/A,2h 30m
+1761. The Other Side,Horror,N/A,N/A,3m
+1762. Doors. Hotel Mystery,Horror,N/A,N/A,N/A
+1763. Un ciel noir dans la station 13,Horror,N/A,N/A,1h 30m
+1764. Lol Dog,Horror,N/A,N/A,3h 4m
+1765. Rami Noda,Horror,N/A,N/A,N/A
+1766. Hi8 Resurrectio Director's Cut,Horror,N/A,N/A,1h 17m
+1767. Pharism: Prologue,Horror,N/A,N/A,1h 18m
+1768. Five Nights at Freddy's Minecraft Roleplay Movie,Horror,N/A,N/A,1h 24m
+1769. Ici Dieu n'entre pas!,Horror,N/A,N/A,N/A
+1770. T.C.O,Horror,N/A,N/A,1h 23m
+1771. Shadows,Horror,N/A,N/A,1h 24m
+1772. Strange Events Sim,Horror,N/A,N/A,1h 20m
